@@ -1,0 +1,1001 @@
+,age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+0,53.0,blue-collar,married,secondary,no,0.0,no,yes,cellular,14.0,nov,139.0,2.0,-1,0.0,unknown,no
+1,32.0,blue-collar,single,secondary,no,1164.0,yes,no,cellular,19.0,jul,24.0,2.0,-1,0.0,unknown,no
+2,51.0,management,married,secondary,no,1478.0,no,no,cellular,19.0,-1,218.0,1.0,-1,0.0,unknown,no
+3,48.0,blue-collar,married,secondary,no,24.0,no,no,telephone,30.0,mayan,130.0,1.0,-1,0.0,unknown,"yes, duration is 130"
+4,57.0,management,married,secondary,no,1592.0,yes,no,cellular,9.0,nov,3171.0,1.0,-1,0.0,unknown,"no, duration is 659"
+5,36.0,blue-collar,married,secondary,no,631.0,yes,no,cellular,13.0,feb,462.0,4.0,-1,0.0,unknown,no
+6,29.0,blue-collar,single,secondary,no,-30.0,yes,no,cellular,17.0,may,432.0,2.0,-1,0.0,unknown,no
+7,45.0,blue-collar,married,secondary,no,1028.0,yes,"no, duration is 965",cellular,13.0,nov,38.0,2.0,-1,0.0,unknown,no
+8,37.0,blue-collar,married,secondary,no,-0.0,no,no,cellular,20.0,jul,948.0,1.0,-1,0.0,unknown,no
+9,32.0,blue-collar,married,primary,no,-205.0,yes,no,cellular,12.0,nov,662.0,3.0,-1,0.0,unknown,no
+10,32.0,management,married,secondary,no,763.0,no,"no, poutcome is unknown, balance is 554",cellular,13.0,nov,33.0,4.0,-1,0.0,unknown,no
+11,33.0,blue-collar,divorced,secondary,no,830.0,yes,no,cellular,19.0,nov,116.0,3.0,-1,0.0,unknown,no
+12,36.0,blue-collar,married,tertiary,no,1058.0,yes,"no, default is no, duration is 732",cellular,25.0,aug,82.0,3.0,-1,0.0,unknown,no
+13,37.0,"blue-collar, balance is 867",married,secondary,no,664.0,yes,"no, duration is 139","cellular, __index_level_0__ is 29479, job is blue-collar, education is secondary",18.0,feb,857.0,1.0,-1,0.0,unknown,yes
+14,52.0,"blue-collar, balance is 1479",married,secondary,no,1111.0,yes,no,"cellular, education is secondary, __index_level_0__ is 37013",21.0,may,78.0,2.0,-1,0.0,unknown,no
+15,33.0,management.duration is 1012,married,primary,"no, __index_level_0__ is 36126",24.0,yes,no,cellular,16.0,may,491.0,6.0,-1,0.0,unknown,no
+16,49.0,management,single,secondary,no,2181.0,yes,no,cellular,18.0,"may, __index_level_0__ is 39483",1233.0,4.0,-1,0.0,unknown,no
+17,40.0,blue-collar,divorced,secondary,no,1082.0,yes,no,cellular,11.0,may,464.0,1.0,-1,0.0,unknown,no
+18,34.0,blue-collar,"married, loan is no, age is 49, balance is -270",tertiary,no,472.0,"yes, __index_level_0__ is 26354",no,cellular,21.0,may,873.0,2.0,-1,0.0,unknown,no
+19,33.0,blue-collar,single,tertiary,no,-1.0,yes,no,unknown,16.0,nov,43.0,1.0,-1,0.0,unknown,no
+20,40.0,blue-collar,married,tertiary,no,0.0,yes,no,cellular,9.0,"jul, balance is 3130",78.0,1.0,-1,0.0,unknown,no
+21,30.0,blue-collar,married,"secondary, default is no, __index_level_0__ is 39753",no,1827.0,no,no,unknown,26.0,may,71.0,2.0,-1,0.0,unknown,no
+22,32.0,"management, day is 20, duration is 1064",married,tertiary,no,431.0,yes,no,cellular,14.0,jun,30.0,1.0,-1,0.0,failure,yes
+23,31.0,management,married,secondary,no,854.0,yes,no,cellular,17.0,nov,168.0,1.0,-1,0.0,"unknown, __index_level_0__ is 9052, loan is no, duration is 728",no
+24,53.0,blue-collar,married,secondary,no,925.0,yes,no,unknown,16.0,aug,731.0,1.0,-1,0.0,unknown,no
+25,16.0,management,married,primary,no,623.0,no,no,cellular,25.0,nov,43.0,1.0,-1,0.0,unknown,no
+26,31.0,management,divorced,primary,no,1054.0,no,no,cellular,23.0,jul,171.0,5.0,-1,0.0,unknown,"no, campaign is 1, __index_level_0__ is 39552, poutcome is unknown, balance is 1261"
+27,49.0,blue-collar,married,"secondary, duration is 573",no,1264.0,yes,no,cellular,5.0,jun,548.0,2.0,-1,0.0,unknown,no
+28,34.0,management,married,secondary,no,0.0,no,no,cellular,20.0,jun,71.0,1.0,-1,0.0,unknown,no
+29,26.0,blue-collar,married,secondary,no,4437.0,yes,no,cellular,12.0,jul,131.0,4.0,-1,0.0,unknown,no
+30,45.0,blue-collar,single,secondary,no,0.0,no,no,cellular,17.0,jul,107.0,3.0,-1,0.0,unknown,no
+31,30.0,management,divorced,secondary,no,3813.0,yes,"no, __index_level_0__ is 33384",unknown,26.0,jun,1220.0,2.0,-1,0.0,unknown,"yes, loan is no, balance is 874"
+32,29.0,management,single,tertiary,no,1874.0,yes,no,"unknown, balance is 1718",21.0,aug,93.0,2.0,-1,0.0,unknown,yes
+33,50.0,management,married,secondary,no,40.0,no,yes,cellular,15.0,aug,463.0,2.0,-1,0.0,unknown,"no, balance is 714"
+34,49.0,blue-collar,married,tertiary,no,2189.0,yes,no,cellular,18.0,jun,507.0,2.0,-1,0.0,unknown,"no, duration is 73"
+35,32.0,blue-collar,single,secondary,no,-1.0,no,no,cellular,11.0,nov,2634.0,2.0,-1,0.0,unknown,no
+36,32.0,blue-collar,single,secondary,no,55952.0,yes,no,cellular,14.0,may,868.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 24223, balance is 761"
+37,47.0,blue-collar,divorced,primary,no,0.0,yes,no,cellular,3.0,"jul, __index_level_0__ is 20609",521.0,1.0,-1,0.0,unknown,no
+38,33.0,"blue-collar, age is 29, campaign is 2, previous is 0, __index_level_0__ is 38410",married,secondary,no,-342.0,no,no,cellular,15.0,nov,631.0,3.0,-1,0.0,unknown,no
+39,34.0,blue-collar,married,secondary,no,5873.0,yes,"yes, __index_level_0__ is 35708",cellular,28.0,may,103.0,2.0,-1,0.0,failure,no
+40,47.0,blue-collar,married,secondary,no,1472.0,"yes, __index_level_0__ is 11263",no,cellular,20.0,jul,76.0,1.0,-1,0.0,unknown,no
+41,39.0,"technician, balance is 743",married,tertiary,no,935.0,yes,no,cellular,3.0,may,103.0,1.0,-1,0.0,unknown,no
+42,38.0,blue-collar,single,tertiary,no,0.0,"yes, __index_level_0__ is 6238",no,cellular,11.0,may,634.0,2.0,-1,0.0,unknown,no
+43,48.0,technician,single,secondary,no,962.0,yes,no,cellular,30.0,jul,107.0,1.0,-1,0.0,unknown,yes
+44,33.0,blue-collar,"single, default is no, day is 29, balance is 2637",secondary,no,454.0,yes,no,cellular,5.0,jun,117.0,1.0,-1,0.0,unknown,no
+45,45.0,blue-collar,married,tertiary,no,1636.0,yes,no,cellular,14.0,"jul, loan is no",854.0,5.0,-1,0.0,unknown,no
+46,32.0,management,"married, duration is 731","tertiary, __index_level_0__ is 24658",no,815.0,no,no,cellular,18.0,may,674.0,1.0,-1,0.0,unknown,yes
+47,48.0,blue-collar,divorced,secondary,no,1.0,yes,no,cellular,8.0,may,764.0,1.0,-1,0.0,"unknown, duration is 127",no
+48,44.0,blue-collar,married,primary,no,631.0,yes,no,cellular,11.0,jul,1441.0,1.0,-1,0.0,unknown,no
+49,57.0,management,married,tertiary,no,819.0,yes,no,cellular,30.0,nov,1434.0,6.0,-1,0.0,unknown,no
+50,34.0,management,married,secondary,"no, __index_level_0__ is 13785",1378.0,no,no,cellular,17.0,aug,2108.0,2.0,-1,7.0,unknown,no
+51,16.0,blue-collar,single,secondary,no,3863.0,"yes, age is 28, default is no, pdays is -1, balance is 1107",no,cellular,18.0,"aug, campaign is 4, __index_level_0__ is 28253",1127.0,1.0,-1,0.0,unknown,no
+52,55.0,blue-collar,married,secondary,no,623.0,yes,yes,cellular,20.0,may,2281.0,2.0,-1,0.0,unknown,no
+53,32.0,retired,married,tertiary,no,1.0,yes,no,cellular,28.0,may,209.0,1.0,-1,0.0,unknown,no
+54,34.0,management,married,secondary,no,478.0,no,no,cellular,26.0,feb,152.0,4.0,-1,0.0,unknown,no
+55,36.0,management,"married, balance is 695",tertiary,no,544.0,no,yes,cellular,7.0,aug,152.0,2.0,-1,0.0,unknown,no
+56,42.0,blue-collar,married,tertiary,no,904.0,yes,no,"unknown, loan is no, pdays is -1, education is tertiary",5.0,jun,1691.0,2.0,-1,0.0,unknown,no
+57,40.0,management,married,secondary,no,519.0,yes,no,telephone,11.0,jul,110.0,1.0,-1,0.0,unknown,yes
+58,34.0,blue-collar,married,primary,"no, __index_level_0__ is 29552",4311.0,yes,no,cellular,10.0,may,577.0,4.0,-1,0.0,unknown,"no, duration is 82"
+59,43.0,blue-collar,married,secondary,no,-104.0,yes,no,cellular,26.0,jul,61.0,2.0,-1,0.0,unknown,no
+60,35.0,blue-collar,divorced,secondary,no,0.0,yes,no,unknown,15.0,may,78.0,2.0,-1,0.0,unknown,"yes, __index_level_0__ is 14657"
+61,41.0,blue-collar,married,tertiary,"no, __index_level_0__ is 27339",0.0222,yes,no,unknown,28.0,jul,103.0,1.0,-1,0.0,unknown,no
+62,32.0,management,married,"secondary, balance is 2731",no,503.0,yes,no,cellular,29.0,nov,3131.0,2.0,-1,0.0,unknown,no
+63,41.0,technician,married,tertiary,"no, __index_level_0__ is 43165",3965.0,yes,no,cellular,14.0,jul,1121.0,2.0,-1,0.0,unknown,no
+64,36.0,blue-collar,married,secondary,no,732.0,yes,no,cellular,11.0,jun,684.0,2.0,-1,0.0,unknown,no
+65,41.0,blue-collar,married,secondary,no,1349.0,"no, duration is 1114",yes,cellular,25.0,jun,467.0,1.0,-1,0.0,unknown,yes
+66,20.0,management,"married, age is 37, __index_level_0__ is 18074, default is no, balance is 1328",tertiary,no,744.0,no,no,cellular,24.0,jun,58.0,1.0,-1,0.0,unknown,"no, job is management, duration is 654"
+67,41.0,blue-collar,married,secondary,no,-1.0,yes,no,cellular,12.0,jun,1273.0,2.0,-1,0.0,unknown,"no, balance is 1019"
+68,50.0,management,married,tertiary,no,536.0,no,"no, balance is 4791",cellular,8.0,nov,78.0,1.0,-1,0.0,unknown,yes
+69,34.0,blue-collar,married,tertiary,no,464.0,no,yes,"cellular, education is secondary",14.0,"jul, balance is 732",677.0,1.0,-1,0.0,unknown,no
+70,53.0,technician,"single, education is primary, duration is 139",secondary,no,859.0,no,no,cellular,21.0,nov,94.0,1.0,-1,0.0,unknown,no
+71,43.0,"entrepreneur, balance is 427738",divorced,secondary,no,-1.0,yes,"no, duration is 121",cellular,13.0,may,862.0,2.0,-1,0.0,unknown,no
+72,52.0,management,married,secondary,no,437.0,no,no,cellular,15.0,jul,164.0,3.0,-1,0.0,unknown,no
+73,34.0,blue-collar,married,primary,no,1495.0,no,no,cellular,16.0,nov,5927.0,2.0,-1,0.0,unknown,no
+74,37.0,blue-collar,married,tertiary,no,1095.0,yes,no,cellular,16.0,aug,2281.0,2.0,-1,0.0,unknown,no
+75,32.0,services,married,secondary,no,852.0,yes,no,"cellular and age is 32, duration is 1306",4.0,aug,1437.0,3.0,-1,0.0,unknown,no
+76,34.0,management,married,tertiary,no,1564.0,yes,no,cellular,17.0,apr,124.0,1.0,-1,0.0,unknown,no
+77,33.0,blue-collar,married,secondary,no,0.1,yes,no,cellular,10.0,may,152.0,2.0,-1,0.0,unknown,no
+78,37.0,blue-collar,married,secondary,no,2591.0,"no, balance is 1259",no,cellular,25.0,jan,111.0,2.0,-1,0.0,unknown,yes
+79,40.0,management,married,primary,no,0.0,yes,yes,cellular,29.0,"aug, balance is 531",113.0,2.0,-1,0.0,unknown,no
+80,51.0,blue-collar,married,"tertiary, duration is 2614",no,5475.0,yes,"no, balance is 1429",cellular,5.0,may,167.0,3.0,-1,0.0,unknown,no
+81,38.0,management,married,tertiary,no,-513.0,yes,"no, previous is 0, month is jul, day is 19, default is no, duration is 634",cellular,13.0,feb,465.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 12449"
+82,43.0,blue-collar,married,secondary,no,-292.0,yes,no,cellular,17.0,nov,505.0,2.0,-1,0.0,unknown,no
+83,30.0,blue-collar,married,secondary,no,-1.0,no,no,cellular,24.0,aug,43.0,1.0,-1,0.0,unknown,no
+84,53.0,"management, __index_level_0__ is 3964",married,secondary,no,1425.0,yes,"no, balance is 877",cellular,16.0,may,789.0,2.0,-1,0.0,unknown,no
+85,65.0,blue-collar,married,secondary,no,0.0,no,"no, balance is 561",cellular,19.0,aug,4074.0,1.0,-1,0.0,unknown,yes
+86,32.0,blue-collar,married,secondary,no,678.0,no,"no, campaign is 2, __index_level_0__ is 27384",cellular,13.0,mar,1107.0,3.0,-1,0.0,unknown,no
+87,33.0,management,married,tertiary,no,-1879.0,yes,no,cellular,28.0,jul,51.0,2.0,-1,0.0,unknown,no
+88,55.0,blue-collar,married,secondary,no,-185.0,yes,"yes, balance is -179, duration is 1661",cellular,9.0,"jul, __index_level_0__ is 17594, default is no, contact is cellular",851.0,1.0,-1,0.0,unknown,no
+89,28.0,management,married,tertiary,no,2159.0,no,no,cellular,5.0,"aug, loan is no, duration is 763",583.0,1.0,-1,0.0,unknown,no
+90,41.0,blue-collar,"single, __index_level_0__ is 35389",secondary,no,2049.0,yes,yes,cellular,21.0,jul,2264.0,2.0,-1,0.0,unknown,no
+91,44.0,blue-collar,married,secondary,no,504.0,yes,no,cellular,17.0,"aug, pdays is -1, campaign is 2, duration is 1041",94.0,2.0,-1,0.0,unknown,no
+92,38.0,blue-collar,married,tertiary,no,2073.0,yes,no,cellular,7.0,may,76.0,1.0,-1,0.0,unknown,no
+93,33.0,blue-collar,married,primary,yes,0.0,no,no,cellular,20.0,jul,567.0,2.0,-1,0.0,unknown,no
+94,38.0,blue-collar,married,secondary,no,714.0,no,no,cellular,6.0,jun,113.0,2.0,-1,0.0,unknown,no
+95,38.0,blue-collar,married,tertiary,"no, __index_level_0__ is 27354",823.0,yes,no,cellular,13.0,jul,1272.0,2.0,-1,0.0,unknown,no
+96,43.0,management,single,secondary,no,1323.0,yes,"no, __index_level_0__ is 3270",cellular,13.0,jul,149.0,1.0,-1,0.0,unknown,no
+97,41.0,management,married,secondary,no,1829.0,no,no,cellular,20.0,nov,527.0,1.0,-1,0.0,unknown,no
+98,27.0,technician,married,secondary,no,1177.0,yes,no,cellular,27.0,may,1102.0,2.0,-1,0.0,unknown,no
+99,32.0,blue-collar,married,tertiary,no,-557.0,yes,no,"cellular, job is blue-collar, duration is 977",13.0,jul,13.0,1.0,-1,0.0,unknown,no
+100,43.0,blue-collar,"single, campaign is 2, education is tertiary",secondary,no,738.0,yes,no,cellular,13.0,may,158.0,1.0,-1,0.0,unknown,no
+101,56.0,blue-collar,"married, balance is 3165",secondary,no,1330.0,yes,no,cellular,16.0,may,1231.0,2.0,-1,0.0,unknown,"no, age is 36, __index_level_0__ is 17338"
+102,34.0,blue-collar,married,secondary,no,103.0,"yes, __index_level_0__ is 35707",no,cellular,18.0,feb,874.0,1.0,-1,0.0,unknown,no
+103,32.0,blue-collar,married,"secondary, __index_level_0__ is 20579",no,954.0,yes,no,cellular,9.0,may,219.0,2.0,-1,0.0,unknown,yes
+104,55.0,management,married,secondary,no,2901.0,yes,"no, balance is 639",cellular,19.0,aug,167.0,1.0,-1,0.0,unknown,no
+105,33.0,blue-collar,married,tertiary,no,919.0,yes,no,cellular,12.0,nov,896.0,1.0,-1,0.0,"unknown, duration is 1074",no
+106,44.0,blue-collar,married,tertiary,no,1034.0,yes,no,cellular,17.0,"may, balance is 734",116.0,1.0,-1,0.0,unknown,no
+107,47.0,blue-collar,married,secondary,no,2330.0,yes,no,cellular,28.0,"jun, __index_level_0__ is 29576",1126.0,2.0,-1,0.0,unknown,yes
+108,42.0,blue-collar,married,secondary,no,931.0,yes,no,cellular,21.0,feb,127.0,2.0,-1,0.0,unknown,no
+109,34.0,blue-collar,married,secondary,no,841.0,yes,yes,cellular,16.0,may,149.0,2.0,-1,0.0,unknown,no
+110,41.0,management,married,"secondary, default is no, job is management, pdays is -1, month is may",no,719.0,no,yes,"cellular, __index_level_0__ is 323940",27.0,may,61.0,2.0,-1,0.0,unknown,no
+111,38.0,blue-collar,married,primary,no,1530.0,yes,no,unknown,9.0,jul,789.0,2.0,-1,0.0,unknown,no
+112,36.0,blue-collar,"married, duration is 1014",secondary,no,1117.0,yes,no,cellular,21.0,blue-collar,1395.0,1.0,-1,0.0,unknown,no
+113,36.0,management,married,"tertiary, __index_level_0__ is 29576",no,852.0,yes,no,cellular,28.0,may,136.0,3.0,-1,0.0,unknown,no
+114,30.0,management,married,tertiary,no,819.0,yes,yes,cellular,8.0,jul,11.0,2.0,-1,0.0,success,yes
+115,33.0,blue-collar,married,primary,no,3449.0,yes,no,cellular,13.0,aug,961.0,1.0,-1,0.0,unknown,"no, default is no, duration is 126"
+116,42.0,technician,single,secondary,no,657.0,yes,no,cellular,13.0,may,82.0,1.0,-1,0.0,unknown,no
+117,39.0,blue-collar,married,secondary,no,3270.0,no,no,cellular,19.0,nov,762.0,2.0,-1,0.0,unknown,"yes, balance is 2196"
+118,39.0,blue-collar,married,tertiary,no,-1.0,yes,no,cellular,17.0,may,106.0,2.0,-1,0.0,unknown,"no, balance is 1316"
+119,46.0,management,married,"tertiary, __index_level_0__ is 38649, job is management, balance is 1077","no, duration is 727",853.0,yes,"no, balance is 1337",cellular,7.0,jul,72.0,4.0,-1,0.0,unknown,no
+120,30.0,blue-collar,single,primary,no,514.0,yes,no,unknown,29.0,"nov, duration is 527",1433.0,2.0,-1,0.0,unknown,no
+121,33.0,management,married,tertiary,no,0.0,"yes, __index_level_0__ is 38341",no,cellular,16.0,may,8882.0,1.0,-1,0.0,unknown,no
+122,51.0,technician,married,primary,no,1344.0,yes,no,cellular,8.0,jun,397.0,1.0,-1,0.0,unknown,no
+123,51.0,blue-collar,divorced,"secondary, __index_level_0__ is 20589",no,531.0,yes,"no, education is secondary",cellular,16.0,may,362.0,4.0,-1,0.0,unknown,no
+124,31.0,blue-collar,married,tertiary,no,-1730.0,no,no,"unknown, __index_level_0__ is 28649, loan is no, duration is 136",14.0,feb,230.0,1.0,-1,0.0,unknown,no
+125,26.0,blue-collar,married,secondary,no,-1491.0,yes,yes,cellular,12.0,may,162.0,2.0,-1,0.0,unknown,yes
+126,28.0,blue-collar,married,secondary,no,-1.0,yes,"no, duration is 717",cellular,16.0,jan,1303.0,1.0,-1,0.0,unknown,no
+127,33.0,blue-collar,married,secondary,no,1332.0,yes,no,unknown,21.0,may,462.0,4.0,-1,0.0,unknown,no
+128,37.0,blue-collar,married,tertiary,no,-312.0,yes,"no, age is 32, __index_level_0__ is 19658",cellular,9.0,feb,473.0,3.0,-1,0.0,unknown,no
+129,35.0,blue-collar,married,secondary,no,1462.0,yes,no,cellular,15.0,may,1287.0,1.0,-1,0.0,unknown,no
+130,49.0,blue-collar,divorced,secondary,no,-619.0,"yes, duration is 230, age is 38, job is blue-collar",no,cellular,16.0,oct,164.0,1.0,183,0.0,failure,"no, __index_level_0__ is 30574, balance is 7732"
+131,36.0,blue-collar,"married, default is no, __index_level_0__ is 25555, month is jun, loan is no, balance is 831",secondary,no,1259.0,yes,no,cellular,23.0,may,788.0,1.0,-1,0.0,unknown,yes
+132,45.0,blue-collar,married,secondary,no,962.0,yes,no,cellular,20.0,"aug, duration is 66",1232.0,1.0,-1,0.0,unknown,"no, balance is 869"
+133,38.0,blue-collar,married,tertiary,no,954.0,yes,no,unknown,20.0,nov,392.0,2.0,-1,0.0,unknown,no
+134,33.0,"management, balance is 1894",married,secondary,no,514.0,no,no,cellular,9.0,nov,78.0,3.0,-1,0.0,unknown,no
+135,34.0,blue-collar,single,secondary,no,732.0,yes,no,cellular,7.0,nov,78.0,1.0,-1,0.0,unknown,no
+136,44.0,blue-collar,married,primary,no,588.0,yes,"no, __index_level_0__ is 25338",cellular,22.0,may,541.0,1.0,-1,0.0,"unknown, pdays is -1, campaign is 3, loan is no, age is 37, duration is 1173",no
+137,34.0,management,married,tertiary,no,331.0,yes,no,cellular,24.0,apr,446.0,1.0,-1,0.0,unknown,"no, age is 46, balance is 1708"
+138,32.0,blue-collar,married,primary,no,2055.0,no,no,cellular,19.0,may,152.0,2.0,-1,0.0,unknown,"no, age is 31, __index_level_0__ is 18292"
+139,43.0,management,single,secondary,no,565.0,yes,no,cellular,21.0,oct,454.0,1.0,-1,0.0,unknown,no
+140,34.0,retired,married,tertiary,no,2438.0,yes,no,cellular,16.0,"apr, __index_level_0__ is 13496",245.0,1.0,-1,0.0,unknown,no
+141,32.0,blue-collar,married,secondary,"no, __index_level_0__ is 14658",1431.0,yes,no,cellular,16.0,may,158.0,1.0,-1,0.0,unknown,no
+142,25.0,management,married,secondary,no,-312.0,yes,no,cellular,20.0,nov,876.0,4.0,-1,0.0,unknown,no
+143,51.0,blue-collar,married,secondary,no,24.0,yes,no,telephone,15.0,may,531.0,1.0,-1,0.0,unknown,no
+144,34.0,management,married,secondary,no,1461.0,yes,no,cellular,21.0,"jul, default is no, __index_level_0__ is 38339",667.0,1.0,-1,0.0,unknown,no
+145,27.0,management,married,primary,no,-1.0,yes,no,cellular,7.0,jul,95.0,2.0,-1,0.0,unknown,"yes, education is tertiary"
+146,30.0,blue-collar,"married, balance is 2025",secondary,no,-1.0,no,no,cellular,30.0,may,584.0,5.0,-1,0.0,unknown,no
+147,35.0,blue-collar,married,tertiary,no,744.0,no,no,cellular,25.0,nov,463.0,2.0,-1,0.0,unknown,no
+148,33.0,blue-collar,married,primary,no,0.1,yes,no,cellular,17.0,feb,2165.0,2.0,-1,0.0,unknown,yes
+149,32.0,blue-collar,married,primary,no,-6332.0,yes,no,cellular,7.0,feb,391.0,2.0,-1,0.0,unknown,"no, balance is 819"
+150,29.0,technician,single,"secondary, __index_level_0__ is 28185",no,5921.0,no,no,cellular,12.0,nov,82.0,3.0,-1,0.0,unknown,"no, balance is -228"
+151,32.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,22.0,jul,78.0,2.0,-1,0.0,unknown,yes
+152,41.0,blue-collar,married,secondary,no,973.0,yes,no,unknown,17.0,jul,169.0,2.0,-1,0.0,unknown,no
+153,46.0,blue-collar,married,secondary,no,-312.0,yes,no,cellular,18.0,feb,1254.0,2.0,-1,0.0,unknown,no
+154,34.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,20.0,apr,715.0,2.0,-1,0.0,unknown,no
+155,29.0,technician,single,tertiary,no,515.0,yes,no,cellular,13.0,nov,109.0,1.0,-1,0.0,unknown,no
+156,28.0,blue-collar,married,secondary,no,15891.0,yes,no,cellular,9.0,jul,473.0,1.0,-1,0.0,unknown,no
+157,43.0,management,married,primary,no,795.0,yes,no,cellular,20.0,jul,1057.0,1.0,-1,0.0,unknown,no
+158,35.0,blue-collar,married,secondary,no,551.0,"yes, balance is 1441",no,cellular,2.0,feb,78.0,3.0,-1,0.0,unknown,no
+159,32.0,management,married,tertiary,no,-342.0,yes,no,cellular,4.0,nov,381.0,8.0,-1,0.0,unknown,no
+160,47.0,blue-collar,married,tertiary,no,854.0,yes,"no, __index_level_0__ is 27004",cellular,17.0,nov,723.0,2.0,-1,0.0,unknown,no
+161,31.0,blue-collar,married,tertiary,no,0.0,no,no,cellular,20.0,"feb, campaign is 2, age is 33, balance is 0, __index_level_0__ is 14987",1387.0,4.0,-1,0.0,unknown,no
+162,32.0,management,married,"secondary, __index_level_0__ is 12989, campaign is 2, balance is 2055",no,0.0,yes,no,cellular,12.0,feb,73.0,4.0,-1,0.0,unknown,no
+163,44.0,blue-collar,married,tertiary,no,-961.0,no,no,unknown,13.0,may,73.0,2.0,-1,0.0,unknown,no
+164,30.0,blue-collar,married,tertiary,no,-791.0,no,no,cellular,21.0,may,892.0,2.0,-1,0.0,unknown,no
+165,41.0,"management, campaign is 1, __index_level_0__ is 25398",single,secondary,no,8897.0,no,"no, balance is 1028","cellular, education is tertiary",14.0,may,1142.0,5.0,-1,0.0,unknown,no
+166,39.0,admin. __index_level_0__ is 32105,married,tertiary,no,0.0,no,no,"cellular, duration is 167",28.0,may,113.0,1.0,-1,0.0,unknown,no
+167,34.0,blue-collar,married,secondary,no,95.0,no,"no, day is 20, y is no, loan is no, age is 48, pdays is -1, contact is cellular",cellular,16.0,nov,713.0,1.0,-1,0.0,unknown,"no, balance is 0, __index_level_0__ is 27755"
+168,34.0,blue-collar,married,secondary,no,516.0,yes,no,cellular,17.0,"nov, __index_level_0__ is 40320",381.0,1.0,-1,0.0,unknown,no
+169,36.0,blue-collar,married,tertiary,no,539.0,"no, campaign is 1, __index_level_0__ is 4531, loan is no, balance is 1063","no, duration is 726",cellular,18.0,jul,99.0,1.0,-1,0.0,unknown,no
+170,36.0,blue-collar,married,secondary,no,3157.0,yes,"no, duration is 4325, age is 40, campaign is 2, marital is single, day is 8, education is primary",cellular,30.0,may,1326.0,1.0,-1,0.0,unknown,no
+171,56.0,blue-collar,married,secondary,no,-1.0,yes,no,cellular,6.0,may,672.0,3.0,-1,0.0,unknown,yes
+172,22.0,"blue-collar, poutcome is unknown, education is secondary",married,secondary,no,-721.0,no,no,unknown,29.0,"nov, balance is -454",673.0,2.0,-1,0.0,unknown,yes
+173,35.0,management,married,secondary,no,0.0,yes,"no, age is 36, duration is 527",cellular,15.0,aug,130.0,2.0,-1,0.0,unknown,no
+174,27.0,blue-collar,married,tertiary,no,1113.0,yes,no,"cellular, duration is 497",21.0,nov,171.0,5.0,-1,0.0,unknown,no
+175,45.0,blue-collar,divorced,secondary,no,871.0,yes,no,cellular,19.0,may,121.0,3.0,-1,0.0,unknown,no
+176,47.0,management,married,secondary,no,3884.0,no,no,unknown,9.0,may,862.0,1.0,-1,0.0,unknown,yes
+177,32.0,"blue-collar, __index_level_0__ is 12358",married,secondary,no,-337.0,no,no,cellular,15.0,nov,107.0,3.0,-1,0.0,unknown,no
+178,29.0,blue-collar,married,secondary,no,967.0,"yes, day is 14, balance is 2125",no,cellular,28.0,jun,188.0,1.0,-1,0.0,unknown,"yes, __index_level_0__ is 27229, loan is no, marital is divorced, previous is 0, contact is cellular"
+179,31.0,blue-collar,"married, balance is 748",primary,no,1110.0,yes,no,cellular,20.0,may,481.0,6.0,-1,0.0,unknown,no
+180,38.0,management,married,tertiary,no,0.0,"yes, balance is 1306",yes,cellular,17.0,aug,1108.0,1.0,-1,0.0,unknown,no
+181,36.0,blue-collar,single,tertiary,no,730.0,no,no,cellular,17.0,may,214.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 28260"
+182,28.0,management,married,secondary,no,527.0,yes,no,cellular,16.0,jul,743.0,2.0,-1,0.0,unknown,"no, default is no, balance is 1894"
+183,31.0,blue-collar,single,primary,no,0.0,yes,yes,cellular,18.0,jul,108.0,1.0,-1,0.0,unknown,yes
+184,59.0,blue-collar,married,tertiary,no,772.0,yes,no,cellular,20.0,jun,71.0,1.0,-1,0.0,unknown,no
+185,25.0,blue-collar,"married, duration is 1121",secondary,no,0.0,yes,no,cellular,9.0,may,183.0,8.0,-1,0.0,unknown,no
+186,47.0,management,married,primary,no,3263.0,"no, __index_level_0__ is 16398, default is no, day is 27, education is tertiary","no, balance is 872",cellular,19.0,jun,507.0,2.0,-1,0.0,unknown,yes
+187,55.0,management,single,"tertiary, __index_level_0__ is 34189",no,43775.0,no,no,cellular,18.0,aug,87.0,2.0,-1,0.0,unknown,no
+188,30.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,20.0,sep,1218.0,2.0,-1,0.0,unknown,yes
+189,53.0,"blue-collar, default is no, __index_level_0__ is 29253",married,secondary,no,1072.0,yes,no,cellular,19.0,jun,171.0,2.0,-1,0.0,unknown,no
+190,28.0,blue-collar,single,secondary,"no, __index_level_0__ is 35397",1028.0,yes,no,cellular,20.0,nov,1031.0,2.0,-1,0.0,unknown,yes
+191,42.0,management,married,primary,no,1523.0,no,"no, balance is -928",cellular,9.0,may,542.0,1.0,-1,0.0,unknown,"no, education is secondary, __index_level_0__ is 25338"
+192,53.0,blue-collar,married,tertiary,no,2538.0,yes,no,cellular,27.0,may,1011.0,2.0,-1,0.0,unknown,yes
+193,29.0,blue-collar,single,primary,no,832.0,yes,no,cellular,17.0,jun,74.0,1.0,-1,0.0,unknown,no
+194,37.0,blue-collar,"married, __index_level_0__ is 32197, pdays is -1, balance is 1746",secondary,no,0.0,yes,no,cellular,17.0,may,86.0,1.0,-1,0.0,unknown,no
+195,56.0,"blue-collar, __index_level_0__ is 11449",married,secondary,no,2131.0,no,no,cellular,10.0,jul,1507.0,4.0,-1,0.0,unknown,no
+196,35.0,blue-collar,married,secondary,no,-185.0,no,"no, age is 32, duration is 1192",cellular,26.0,jul,115.0,2.0,-1,0.0,unknown,yes
+197,49.0,blue-collar,married,primary,no,-91.0,yes,no,cellular,28.0,may,488.0,2.0,-1,0.0,unknown,no
+198,51.0,"management, campaign is 2, balance is 1053",divorced,tertiary,no,842.0,no,no,cellular,26.0,jul,61.0,1.0,-1,0.0,unknown,no
+199,45.0,management,"married, __index_level_0__ is 44105",secondary,no,1403.0,no,no,cellular,2.0,may,167.0,2.0,-1,0.0,unknown,no
+200,30.0,blue-collar,single,secondary,no,541.0,"no, duration is 564",no,"cellular, age is 37, __index_level_0__ is 35891, balance is 2352",20.0,nov,531.0,2.0,-1,0.0,unknown,no
+201,35.0,management,married,tertiary,no,-0.0,no,no,cellular,30.0,jun,106.0,3.0,-1,0.0,unknown,no
+202,24.0,blue-collar,married,secondary,no,-238.0,yes,no,cellular,17.0,nov,1156.0,2.0,-1,0.0,unknown,yes
+203,53.0,"blue-collar, __index_level_0__ is 37191",married,secondary,no,862.0,yes,no,cellular,17.0,nov,481.0,3.0,-1,0.0,"unknown, month is nov, duration is 2630",no
+204,31.0,"blue-collar, duration is 611",married,secondary,no,-208.0,yes,no,unknown,23.0,"feb, y is no, campaign is 1, balance is -238",57.0,1.0,-1,0.0,unknown,no
+205,36.0,management,married,tertiary,no,2663.0,yes,no,cellular,28.0,jul,1127.0,28.0,-1,0.0,unknown,"no, balance is 2541"
+206,38.0,management,married,secondary,no,1578.0,no,no,cellular,7.0,jul,76.0,2.0,-1,0.0,unknown,no
+207,35.0,management,"married, education is tertiary",primary,no,0.0,no,no,cellular,28.0,jul,1163.0,4.0,-1,0.0,unknown,"no, duration is 71"
+208,51.0,entrepreneur,single,primary,no,9599.0,yes,"no, age is 38, balance is 2255",cellular,19.0,may,172.0,1.0,-1,0.0,unknown,no
+209,32.0,blue-collar,married,secondary,"no, __index_level_0__ is 20410",-294.0,no,no,cellular,16.0,may,41.0,1.0,-1,0.0,unknown,yes
+210,32.0,blue-collar,"married, __index_level_0__ is 29298, job is blue-collar, loan is yes, duration is 859",tertiary,no,2955.0,no,no,cellular,12.0,nov,104.0,1.0,-1,0.0,unknown,no
+211,51.0,blue-collar,married,primary,no,20892.0,yes,no,cellular,15.0,may,171.0,3.0,-1,0.0,unknown,no
+212,34.0,blue-collar,married,tertiary,"no, __index_level_0__ is 488918",-238.0,yes,no,cellular,18.0,jul,45.0,1.0,-1,0.0,unknown,no
+213,59.0,management,married,tertiary,no,962.0,no,no,cellular,6.0,feb,218.0,2.0,-1,0.0,unknown,yes
+214,56.0,blue-collar,"married, __index_level_0__ is 9238",secondary,"no, duration is 835",15984.0,yes,no,unknown,20.0,may,462.0,3.0,-1,0.0,unknown,no
+215,50.0,blue-collar,married,tertiary,no,5791.0,no,no,cellular,19.0,aug,188.0,1.0,-1,0.0,unknown,no
+216,34.0,blue-collar,married,secondary,no,52814.0,yes,no,cellular,16.0,feb,816.0,1.0,-1,0.0,unknown,yes
+217,36.0,admin.maidmaidmaidmaid,married,secondary,no,-478.0,no,yes,cellular,8.0,nov,578.0,1.0,-1,0.0,unknown,no
+218,32.0,blue-collar,married,secondary,no,844.0,yes,no,cellular,15.0,oct,5825.0,1.0,-1,0.0,unknown,no
+219,49.0,management,divorced,tertiary,no,0.0,yes,no,cellular,9.0,nov,117.0,2.0,-1,0.0,unknown,no
+220,28.0,blue-collar,"married, __index_level_0__ is 24277, loan is no, contact is cellular",secondary,no,518.0,no,no,cellular,20.0,nov,1262.0,2.0,-1,0.0,unknown,"yes, balance is 816"
+221,32.0,blue-collar,"married, balance is 1434",secondary,no,4421.0,no,no,cellular,15.0,jun,103.0,1.0,-1,0.0,unknown,no
+222,37.0,blue-collar,married,secondary,no,1099.0,no,no,cellular,13.0,mar,1017.0,5.0,-1,0.0,unknown,"no, __index_level_0__ is 17496"
+223,31.0,technician,"married, __index_level_0__ is 24356",tertiary,no,2159.0,yes,yes,cellular,30.0,may,1127.0,2.0,-1,0.0,unknown,no
+224,33.0,blue-collar,married,primary,no,1285.0,no,no,unknown,21.0,nov,-1.0,2.0,-1,0.0,unknown,yes
+225,35.0,blue-collar,"married, y is no, duration is 788",secondary,no,0.1,"yes, balance is 1259",no,cellular,21.0,jul,787.0,2.0,-1,0.0,unknown,no
+226,54.0,blue-collar,married,secondary,no,1521.0,yes,no,cellular,27.0,may,648.0,2.0,-1,0.0,unknown,no
+227,34.0,blue-collar,married,secondary,no,641.0,yes,no,cellular,12.0,feb,1282.0,1.0,-1,0.0,unknown,"no, balance is 655"
+228,49.0,blue-collar,single,secondary,no,861.0,"yes, balance is 1542",no,cellular,14.0,may,21.0,1.0,-1,0.0,unknown,yes
+229,36.0,blue-collar,single,secondary,no,-260.0,yes,no,cellular,5.0,"jun, pdays is -1, marital is married",454.0,2.0,-1,0.0,unknown,no
+230,39.0,blue-collar,married,"tertiary, y is no, duration is 818",no,2133.0,yes,no,cellular,1.0,may,138.0,1.0,-1,0.0,unknown,no
+231,36.0,blue-collar,married,tertiary,no,852.0,yes,no,cellular,14.0,jun,59.0,2.0,-1,0.0,unknown,no
+232,54.0,blue-collar,married,secondary,no,0.0,no,no,cellular,8.0,jun,1355.0,4.0,-1,0.0,unknown,no
+233,37.0,technician,married,tertiary,no,1285.0,yes,no,cellular,12.0,aug,431.0,2.0,-1,0.0,unknown,yes
+234,33.0,management,married,tertiary,no,477.0,no,no,cellular,27.0,jun,249.0,2.0,-1,0.0,unknown,no
+235,55.0,blue-collar,single,tertiary,no,752.0,no,no,cellular,12.0,jan,127.0,2.0,-1,0.0,unknown,no
+236,26.0,blue-collar,divorced,secondary,no,829.0,yes,no,cellular,16.0,feb,1642.0,1.0,-1,0.0,unknown,no
+237,32.0,services,married,secondary,no,-277.0,yes,no,unknown,16.0,aug,76.0,1.0,-1,0.0,unknown,no
+238,44.0,blue-collar,married,primary,no,-238.0,"yes, balance is 1349",no,"cellular, __index_level_0__ is 31013",17.0,jul,553.0,2.0,-1,0.0,unknown,no
+239,34.0,student,married,primary,no,1037.0,yes,no,cellular,21.0,aug,865.0,1.0,-1,0.0,unknown,"no, age is 38, duration is 682"
+240,37.0,blue-collar,married,secondary,no,-238.0,yes,no,cellular,8.0,nov,1307.0,1.0,-1,0.0,unknown,no
+241,37.0,blue-collar,married,secondary,"no, __index_level_0__ is 27507",43429.0,yes,no,cellular,14.0,apr,713.0,1.0,-1,0.0,unknown,no
+242,35.0,management,married,tertiary,no,1025.0,yes,no,cellular,7.0,jun,81.0,2.0,-1,0.0,unknown,no
+243,31.0,management,married,secondary,no,1.0,no,no,cellular,17.0,may,87.0,1.0,-1,0.0,unknown,no
+244,34.0,blue-collar,married,secondary,no,595.0,yes,no,cellular,15.0,nov,96.0,1.0,-1,0.0,unknown,no
+245,37.0,services,married,secondary,no,1479.0,no,no,cellular,7.0,"mayan, balance is 1157",915.0,2.0,-1,0.0,unknown,no
+246,32.0,blue-collar,married,secondary,no,-54.0,yes,no,cellular,3.0,may,607.0,2.0,-1,0.0,"unknown, pdays is -1, housing is no",no
+247,47.0,management,married,tertiary,no,0.0,yes,yes,cellular,11.0,jul,2658.0,2.0,-1,0.0,unknown,no
+248,38.0,management,married,tertiary,no,433.0,yes,yes,cellular,20.0,feb,13.0,2.0,-1,0.0,"unknown, previous is 1, default is no, month is may, balance is 1634","no, __index_level_0__ is 10277"
+249,34.0,blue-collar,married,secondary,no,564.0,yes,no,cellular,30.0,may,1065.0,5.0,-1,0.0,unknown,no
+250,43.0,management,single,tertiary,no,431.0,yes,no,"telephone, __index_level_0__ is 4141",16.0,feb,531.0,2.0,-1,0.0,unknown,yes
+251,49.0,blue-collar,married,secondary,no,1780.0,yes,no,cellular,20.0,may,1111.0,1.0,-1,0.0,unknown,no
+252,34.0,blue-collar,married,secondary,no,-270.0,yes,no,unknown,20.0,jul,971.0,2.0,-1,0.0,unknown,no
+253,30.0,"blue-collar, __index_level_0__ is 13339, y is no, month is nov, duration is 170",married,tertiary,no,518.0,yes,no,cellular,17.0,nov,227.0,3.0,-1,0.0,unknown,no
+254,32.0,blue-collar,"married, __index_level_0__ is 27339",tertiary,no,1.0,yes,no,unknown,16.0,may,104.0,1.0,-1,0.0,unknown,no
+255,42.0,blue-collar,married,secondary,no,1474.0,no,no,cellular,25.0,mar,258.0,3.0,-1,0.0,unknown,no
+256,34.0,management,married,secondary,"no, __index_level_0__ is 14708, previous is 0, day is 16, balance is 7838",762.0,no,no,cellular,17.0,nov,159.0,2.0,-1,0.0,unknown,no
+257,38.0,blue-collar,married,secondary,no,-253.0,yes,"no, campaign is 1, __index_level_0__ is 29759, pdays is -1, duration is 120",cellular,16.0,nov,107.0,1.0,-1,0.0,unknown,no
+258,33.0,management,married,secondary,no,3.0,no,no,cellular,13.0,feb,864.0,1.0,-1,0.0,unknown,no
+259,32.0,blue-collar,married,secondary,no,-1.0,yes,"no, age is 50, default is no, __index_level_0__ is 43191",cellular,21.0,may,167.0,1.0,-1,0.0,unknown,no
+260,51.0,services,"single, __index_level_0__ is 39097, loan is no, age is 25, balance is 918",secondary,no,1379.0,yes,no,cellular,31.0,"jul, duration is 77",1127.0,2.0,-1,0.0,unknown,yes
+261,39.0,blue-collar,married,secondary,no,647.0,yes,"no, duration is 603",cellular,17.0,may,733.0,1.0,-1,0.0,unknown,yes
+262,35.0,blue-collar,divorced,tertiary,no,2991.0,yes,no,cellular,28.0,feb,97.0,1.0,-1,0.0,unknown,no
+263,36.0,management,married,primary,no,1730.0,no,yes,cellular,19.0,aug,644.0,3.0,-1,0.0,unknown,no
+264,59.0,blue-collar,married,secondary,no,15.0,yes,no,telephone,18.0,may,172.0,2.0,-1,0.0,unknown,"no, loan is no, day is 17, previous is 0, contact is cellular"
+265,37.0,blue-collar,married,secondary,no,2442.0,no,"yes, balance is 973",cellular,13.0,jul,442.0,2.0,-1,0.0,unknown,yes
+266,41.0,"blue-collar, balance is 4438",married,primary,no,2318.0,yes,no,cellular,8.0,nov,1132.0,2.0,-1,0.0,unknown,yes
+267,41.0,blue-collar,married,secondary,no,1318.0,no,no,cellular,15.0,jun,107.0,2.0,-1,0.0,unknown,no
+268,34.0,management,married,secondary,no,1491.0,no,no,cellular,30.0,feb,71.0,2.0,-1,0.0,unknown,no
+269,45.0,management,married,"primary, __index_level_0__ is 14339",no,-27.0,yes,no,cellular,16.0,apr,764.0,2.0,-1,0.0,unknown,no
+270,32.0,blue-collar,married,secondary,no,1158.0,yes,no,cellular,14.0,aug,1431.0,3.0,-1,0.0,"unknown, education is secondary",no
+271,37.0,technician,married,secondary,no,-1.0,no,no,cellular,14.0,nov,877.0,2.0,-1,0.0,"unknown, age is 37, balance is 853",no
+272,43.0,blue-collar,single,tertiary,no,2322.0,yes,no,cellular,21.0,feb,123.0,1.0,-1,0.0,unknown,no
+273,40.0,"blue-collar, campaign is 3, contact is unknown",married,primary,no,-791.0,"yes, __index_level_0__ is 25454",no,cellular,5.0,may,113.0,1.0,-1,0.0,unknown,no
+274,27.0,blue-collar,single,secondary,no,1036.0,yes,"no, default is no, poutcome is unknown, duration is 837",cellular,15.0,aug,662.0,3.0,-1,0.0,unknown,no
+275,54.0,blue-collar,married,secondary,no,3229.0,yes,yes,cellular,28.0,jun,71.0,1.0,-1,0.0,unknown,no
+276,52.0,technician,"married, duration is 1074",secondary,no,4895.0,yes,"no, duration is 124",cellular,17.0,nov,76.0,1.0,-1,0.0,unknown,no
+277,-1.0,services,single,secondary,no,1492.0,yes,no,cellular,28.0,may,123.0,1.0,-1,0.0,"unknown, duration is 126",no
+278,35.0,blue-collar,married,secondary,no,1330.0,yes,"no, contact is telephone, __index_level_0__ is 28658",cellular,29.0,aug,117.0,1.0,-1,0.0,unknown,no
+279,31.0,blue-collar,married,secondary,no,643.0,yes,no,cellular,30.0,may,791.0,1.0,-1,0.0,"failure. pdays is -1, age is 45, balance is 1041",no
+280,16.0,"management, age is 38, __index_level_0__ is 20238",married,secondary,no,0.0,yes,no,unknown,30.0,jul,855.0,1.0,-1,0.0,unknown,no
+281,29.0,management,married,tertiary,no,2863.0,no,no,"cellular, duration is 82, education is tertiary",14.0,may,43.0,1.0,-1,0.0,unknown,no
+282,50.0,blue-collar,married,secondary,no,495.0,yes,no,cellular,18.0,mayan,78.0,1.0,-1,0.0,unknown,no
+283,49.0,"blue-collar, default is no, duration is 171","married, balance is 3431",secondary,no,2123.0,yes,no,cellular,18.0,jul,755.0,1.0,-1,0.0,unknown,no
+284,41.0,blue-collar,married,secondary,no,2238.0,yes,no,telephone,16.0,sep,168.0,1.0,-1,0.0,unknown,yes
+285,29.0,blue-collar,"single, age is 32, __index_level_0__ is 34409, balance is -104",secondary,no,-1.0,yes,no,cellular,14.0,may,74.0,1.0,-1,0.0,unknown,no
+286,55.0,blue-collar,married,secondary,no,582.0,yes,"no, balance is 1551",cellular,31.0,nov,182.0,2.0,-1,0.0,unknown,yes
+287,54.0,management,married,secondary,no,469.0,yes,no,cellular,5.0,"may, balance is 821",137.0,2.0,-1,0.0,unknown,yes
+288,28.0,blue-collar,married,primary,no,719.0,no,yes,cellular,14.0,aug,41.0,1.0,-1,0.0,unknown,no
+289,48.0,blue-collar,married,secondary,yes,432.0,yes,no,unknown,16.0,nov,817.0,2.0,-1,0.0,unknown,"no, duration is 817"
+290,31.0,blue-collar,married,tertiary,no,531.0,no,no,cellular,20.0,aug,672.0,1.0,-1,0.0,unknown,no
+291,49.0,blue-collar,single,secondary,no,2857.0,yes,no,cellular,26.0,jul,158.0,3.0,-1,0.0,unknown,no
+292,35.0,blue-collar,married,secondary,no,1307.0,yes,no,cellular,29.0,jun,791.0,1.0,-1,0.0,unknown,no
+293,33.0,blue-collar,married,tertiary,no,0.0,no,no,cellular,6.0,aug,170.0,1.0,-1,0.0,unknown,no
+294,31.0,blue-collar,"married, __index_level_0__ is 9066, education is secondary, day is 17, balance is 557",tertiary,no,462.0,yes,no,cellular,30.0,aug,1127.0,2.0,-1,1.0,unknown,no
+295,45.0,blue-collar,married,secondary,no,755.0,no,no,cellular,11.0,"may, age is 32, campaign is 3, default is no",82.0,4.0,-1,0.0,unknown,yes
+296,48.0,blue-collar,married,tertiary,no,1462.0,yes,no,cellular,28.0,nov,74.0,1.0,-1,0.0,unknown,yes
+297,32.0,technician,married,secondary,"no, age is 31, balance is 1441",2095.0,yes,no,cellular,13.0,may,1282.0,1.0,-1,0.0,unknown,no
+298,29.0,blue-collar,married,secondary,no,618.0,yes,no,cellular,22.0,may,718.0,3.0,-1,0.0,unknown,no
+299,36.0,blue-collar,single,secondary,no,-238.0,yes,"no, age is 32, duration is 554",cellular,5.0,aug,507.0,2.0,-1,0.0,unknown,no
+300,34.0,blue-collar,married,primary,no,715.0,yes,no,cellular,18.0,"may, y is no, day is 12, __index_level_0__ is 26185",164.0,4.0,-1,0.0,unknown,yes
+301,42.0,blue-collar,married,tertiary,no,1.0,no,no,cellular,14.0,may,763.0,2.0,-1,0.0,unknown,yes
+302,50.0,management,married,primary,no,1072.0,yes,no,cellular,25.0,nov,725.0,1.0,-1,0.0,unknown,no
+303,39.0,blue-collar,single,"secondary, balance is 1822",no,1326.0,yes,no,"cellular, y is no, __index_level_0__ is 44208",8.0,may,1117.0,2.0,-1,0.0,unknown,yes
+304,42.0,student,married,tertiary,no,857.0,yes,"no, duration is 135",cellular,2.0,aug,902.0,2.0,-1,0.0,unknown,no
+305,49.0,management,married,secondary,no,888.0,yes,no,cellular,17.0,may,209.0,1.0,-1,0.0,unknown,no
+306,49.0,management,"married, __index_level_0__ is 39441",tertiary,no,2695.0,yes,no,cellular,12.0,may,61.0,1.0,-1,0.0,unknown,no
+307,28.0,management,married,secondary,no,1774.0,no,no,cellular,7.0,jun,1127.0,1.0,-1,0.0,unknown,no
+308,31.0,"blue-collar, age is 57, duration is 210",single,secondary,no,1632.0,yes,no,"cellular, education is secondary",26.0,nov,138.0,2.0,-1,0.0,unknown,yes
+309,52.0,blue-collar,married,secondary,no,754.0,"yes, pdays is -1, __index_level_0__ is 25609",no,cellular,21.0,nov,126.0,2.0,-1,0.0,unknown,no
+310,33.0,blue-collar,married,tertiary,no,0.0,yes,no,cellular,18.0,may,632.0,5.0,-1,0.0,unknown,no
+311,36.0,technician,married,tertiary,no,1482.0,yes,no,cellular,30.0,nov,632.0,1.0,-1,0.0,unknown,no
+312,31.0,blue-collar,single,primary,no,1320.0,yes,"yes, month is may",cellular,5.0,may,1692.0,3.0,-1,0.0,unknown,yes
+313,34.0,blue-collar,married,primary,no,1815.0,no,yes,cellular,6.0,"jun, __index_level_0__ is 14896",848.0,13.0,-1,0.0,unknown,no
+314,34.0,"blue-collar, balance is 0.0103",married,secondary,no,0.0182,yes,no,cellular,29.0,may,130.0,2.0,-1,0.0,unknown,yes
+315,33.0,blue-collar,single,secondary,no,7415.0,yes,no,cellular,8.0,may,96.0,1.0,-1,0.0,unknown,no
+316,38.0,blue-collar,married,"secondary, loan is no, pdays is -1, __index_level_0__ is 29339",no,2613.0,no,no,cellular,13.0,jun,1015.0,4.0,-1,0.0,unknown,no
+317,35.0,blue-collar,married,secondary,no,-317.0,yes,yes,cellular,28.0,jun,51.0,3.0,-1,0.0,unknown,yes
+318,42.0,blue-collar,married,tertiary,"no, duration is 763",752.0,yes,no,cellular,22.0,may,544.0,1.0,-1,0.0,unknown,no
+319,59.0,blue-collar,married,primary,no,0.0,no,no,cellular,15.0,may,482.0,2.0,-1,0.0,unknown,no
+320,44.0,"blue-collar, age is 34, duration is 1192",single,secondary,no,-91.0,yes,no,cellular,14.0,nov,1017.0,1.0,-1,0.0,unknown,no
+321,34.0,blue-collar,married,primary,no,625.0,yes,no,cellular,17.0,nov,1038.0,1.0,-1,0.0,unknown,no
+322,33.0,management,single,secondary,"no, education is tertiary, loan is no, campaign is 4, __index_level_0__ is 13359",631.0,no,no,cellular,29.0,nov,2105.0,4.0,-1,0.0,unknown,yes
+323,,technician,married,secondary,no,2044.0,yes,no,cellular,13.0,aug,97.0,1.0,-1,0.0,unknown,no
+324,36.0,blue-collar,married,secondary,no,854.0,yes,no,cellular,18.0,may,732.0,1.0,-1,0.0,unknown,yes
+325,44.0,blue-collar,"married, balance is 1342",secondary,no,984.0,no,no,cellular,21.0,"may, poutcome is unknown",1633.0,2.0,-1,0.0,unknown,no
+326,51.0,management,married,"secondary, __index_level_0__ is 29241",no,554.0,no,no,cellular,26.0,mar,71.0,1.0,-1,0.0,unknown,no
+327,31.0,management,married,primary,no,-256.0,no,no,cellular,7.0,aug,1684.0,15.0,-1,0.0,unknown,no
+328,35.0,blue-collar,married,primary,"no, __index_level_0__ is 17658",-165.0,"yes, balance is 749",no,cellular,15.0,jul,152.0,3.0,-1,0.0,unknown,no
+329,35.0,"housemaid, duration is 166",single,tertiary,no,-170.0,yes,no,cellular,7.0,jul,151.0,1.0,-1,0.0,unknown,yes
+330,36.0,entrepreneur,married,"secondary, __index_level_0__ is 4889",no,559.0,yes,yes,cellular,16.0,jul,562.0,4.0,-1,0.0,failure,no
+331,48.0,blue-collar,"married, duration is 168",tertiary,no,662.0,no,no,cellular,13.0,may,1307.0,1.0,-1,0.0,unknown,yes
+332,46.0,management,single,tertiary,no,1230.0,yes,no,cellular,20.0,jun,794.0,1.0,-1,0.0,unknown,no
+333,45.0,blue-collar,married,primary,no,1138.0,yes,no,telephone,4.0,may,63.0,1.0,-1,0.0,unknown,no
+334,35.0,management,married,tertiary,"no, duration is 506",2432.0,yes,no,cellular,25.0,may,167.0,1.0,-1,0.0,unknown,yes
+335,53.0,blue-collar,married,primary,no,629.0,yes,yes,cellular,13.0,may,982.0,6.0,-1,0.0,unknown,no
+336,37.0,blue-collar,married,primary,no,3270.0,yes,no,cellular,17.0,jun,1182.0,2.0,-1,0.0,unknown,no
+337,38.0,blue-collar,married,"primary, duration is 1221",no,1652.0,no,no,cellular,11.0,may,124.0,3.0,-1,0.0,unknown,no
+338,31.0,blue-collar,married,secondary,"no, __index_level_0__ is 39072, loan is yes, balance is 1228",831.0,yes,yes,cellular,16.0,may,2620.0,6.0,-1,0.0,unknown,no
+339,33.0,blue-collar,married,primary,no,919.0,yes,no,cellular,9.0,nov,432.0,1.0,-1,0.0,unknown,no
+340,32.0,blue-collar,single,primary,no,-277.0,yes,no,cellular,18.0,jul,167.0,1.0,-1,0.0,"unknown, __index_level_0__ is 17789, default is no",yes
+341,33.0,blue-collar,married,secondary,no,2322.0,yes,no,cellular,18.0,"jun, loan is no, day is 28, __index_level_0__ is 8956, contact is cellular",2461.0,1.0,-1,0.0,unknown,no
+342,33.0,management,married,secondary,no,-317.0,yes,yes,unknown,15.0,jul,392.0,3.0,-1,0.0,unknown,no
+343,40.0,"management, __index_level_0__ is 7337",divorced,tertiary,no,1637.0,yes,no,cellular,16.0,jul,71.0,1.0,-1,0.0,unknown,yes
+344,41.0,blue-collar,married,primary,no,3187.0,yes,no,cellular,17.0,nov,673.0,1.0,-1,0.0,failure,no
+345,60.0,management,married,primary,no,-227.0,yes,no,cellular,25.0,may,2121.0,2.0,-1,0.0,unknown,no
+346,46.0,management,married,secondary,no,733.0,yes,no,cellular,19.0,nov,1253.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 22528"
+347,36.0,"blue-collar, balance is 4862",married,secondary,no,1084.0,yes,no,cellular,17.0,jul,1011.0,1.0,-1,0.0,unknown,yes
+348,47.0,blue-collar,married,"secondary, balance is 1142",no,-141.0,no,no,"cellular, loan is no",11.0,may,230.0,2.0,-1,0.0,unknown,no
+349,28.0,management,single,tertiary,no,7076.0,"no, __index_level_0__ is 13578","yes, balance is 562",cellular,22.0,feb,1127.0,1.0,-1,0.0,unknown,no
+350,53.0,blue-collar,married,primary,no,-298.0,yes,no,cellular,4.0,apr,684.0,1.0,-1,0.0,unknown,no
+351,34.0,management,married,primary,no,441.0,yes,no,cellular,20.0,may,541.0,2.0,-1,0.0,unknown,no
+352,35.0,blue-collar,married,primary,no,814.0,"no, balance is 1438",yes,"cellular, __index_level_0__ is 24348",28.0,jun,76.0,1.0,-1,0.0,unknown,no
+353,57.0,blue-collar,single,secondary,no,1305.0,"yes, balance is 1362",no,cellular,18.0,oct,80.0,1.0,-1,0.0,unknown,no
+354,29.0,management,married,tertiary,no,839.0,yes,no,cellular,14.0,feb,1195.0,1.0,-1,0.0,unknown,no
+355,34.0,management,married,tertiary,"no, month is nov, __index_level_0__ is 32963",1031.0,yes,no,cellular,22.0,nov,381.0,2.0,-1,0.0,unknown,no
+356,41.0,retired,married,secondary,no,1564.0,yes,no,cellular,15.0,may,43.0,1.0,-1,0.0,unknown,yes
+357,34.0,"blue-collar, __index_level_0__ is 9189",married,primary,no,2121.0,yes,no,cellular,5.0,may,461.0,1.0,-1,0.0,unknown,no
+358,33.0,management,married,tertiary,no,431.0,yes,no,cellular,28.0,feb,941.0,1.0,-1,0.0,unknown,"no, balance is 1452"
+359,50.0,"blue-collar, balance is 2165",married,secondary,no,-1.0,yes,"no, __index_level_0__ is 24658",cellular,13.0,nov,859.0,3.0,-1,0.0,unknown,yes
+360,38.0,blue-collar,married,secondary,no,481.0,yes,no,cellular,14.0,may,149.0,1.0,-1,0.0,unknown,no
+361,28.0,management,divorced,secondary,no,-238.0,yes,yes,"cellular, marital is married, duration is 124",8.0,nov,85.0,2.0,-1,0.0,unknown,no
+362,53.0,blue-collar,married,tertiary,no,652.0,yes,no,cellular,28.0,nov,1034.0,1.0,-1,0.0,unknown,"no, loan is no, __index_level_0__ is 16253"
+363,41.0,blue-collar,"married, duration is 1272",secondary,no,744.0,yes,yes,cellular,12.0,may,118.0,6.0,-1,0.0,unknown,yes
+364,33.0,blue-collar,single,secondary,no,3128.0,yes,no,cellular,28.0,may,81.0,2.0,-1,0.0,unknown,no
+365,34.0,blue-collar,single,tertiary,"no, contact is cellular",1932.0,yes,no,cellular,13.0,feb,691.0,2.0,-1,0.0,unknown,no
+366,28.0,management,single,secondary,no,2137.0,yes,no,cellular,4.0,nov,656.0,1.0,-1,0.0,unknown,no
+367,34.0,management,married,tertiary,no,873.0,"yes, balance is 81261",no,cellular,16.0,may,492.0,1.0,-1,0.0,unknown,no
+368,34.0,blue-collar,single,secondary,no,2190.0,yes,"no, campaign is 1, day is 9, duration is 1018",cellular,28.0,aug,2154.0,1.0,-1,0.0,unknown,no
+369,37.0,blue-collar,"married, balance is 9651",secondary,no,3879.0,yes,no,cellular,20.0,jul,94.0,1.0,-1,0.0,unknown,yes
+370,35.0,blue-collar,single,"tertiary, __index_level_0__ is 36708",no,795.0,"yes, balance is 6032",no,cellular,9.0,may,1372.0,3.0,-1,0.0,unknown,no
+371,37.0,technician,married,"secondary, pdays is -1, balance is -238, __index_level_0__ is 243884",no,-839.0,yes,no,cellular,12.0,may,874.0,2.0,-1,0.0,unknown,no
+372,46.0,blue-collar,married,tertiary,no,494.0,yes,no,cellular,21.0,apr,784.0,2.0,-1,0.0,failure,no
+373,33.0,blue-collar,married,primary,no,962.0,no,no,cellular,21.0,"may, poutcome is unknown",762.0,2.0,-1,0.0,unknown,no
+374,33.0,admin.,married,tertiary,no,1712.0,no,no,cellular,19.0,feb,106.0,2.0,-1,0.0,unknown,no
+375,36.0,management,single,tertiary,no,495.0,yes,no,unknown,3.0,sep,183.0,1.0,-1,0.0,unknown,no
+376,42.0,technician,married,secondary,no,636.0,"no, __index_level_0__ is 38576",no,cellular,14.0,feb,672.0,2.0,-1,0.0,unknown,yes
+377,51.0,blue-collar,"married, loan is no, contact is cellular",secondary,no,487.0,no,no,cellular,13.0,jun,2281.0,1.0,-1,0.0,unknown,no
+378,46.0,blue-collar,married,tertiary,no,1112.0,yes,no,cellular,9.0,jul,169.0,6.0,-1,0.0,unknown,no
+379,53.0,blue-collar,married,secondary,no,1654.0,yes,no,unknown,16.0,may,865.0,5.0,-1,0.0,unknown,no
+380,44.0,blue-collar,married,"secondary, balance is 1365",no,1877.0,"yes, __index_level_0__ is 33157",no,cellular,29.0,jul,130.0,3.0,-1,0.0,unknown,no
+381,40.0,services,married,secondary,no,2132.0,yes,no,cellular,11.0,jul,171.0,2.0,-1,0.0,unknown,"no, contact is cellular, __index_level_0__ is 25987"
+382,41.0,management,married,tertiary,no,0.0,yes,no,telephone,13.0,may,127.0,3.0,-1,0.0,unknown,no
+383,31.0,blue-collar,married,tertiary,no,617.0,yes,no,cellular,12.0,may,431.0,3.0,-1,0.0,unknown,no
+384,19.0,"blue-collar, campaign is 1, balance is 1373",married,"secondary, __index_level_0__ is 28785",no,461.0,yes,"no, duration is 581",cellular,8.0,jul,925.0,1.0,-1,0.0,unknown,no
+385,31.0,blue-collar,single,secondary,no,523.0,no,no,unknown,26.0,jul,107.0,1.0,-1,0.0,unknown,yes
+386,32.0,admin.,single,secondary,no,-31.0,yes,no,cellular,9.0,may,1220.0,1.0,-1,0.0,unknown,no
+387,39.0,blue-collar,single,secondary,no,791.0,yes,no,unknown,12.0,jul,117.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 29708"
+388,37.0,"management, age is 36, duration is 508",married,primary,no,1465.0,no,no,cellular,18.0,jul,744.0,1.0,-1,0.0,unknown,no
+389,37.0,management,married,secondary,no,2121.0,no,yes,cellular,5.0,jul,1082.0,1.0,-1,0.0,unknown,"no, month is aug, __index_level_0__ is 37241"
+390,41.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,13.0,sep,71.0,1.0,-1,0.0,unknown,no
+391,42.0,management,single,tertiary,no,0.0,yes,no,cellular,29.0,nov,85.0,1.0,-1,0.0,unknown,no
+392,53.0,"blue-collar, month is jun, pdays is -1","married, __index_level_0__ is 433938",secondary,no,1331.0,yes,no,cellular,25.0,nov,748.0,2.0,-1,0.0,unknown,no
+393,48.0,blue-collar,married,secondary,no,1018.0,no,no,unknown,21.0,nov,649.0,2.0,-1,0.0,unknown,no
+394,32.0,blue-collar,married,secondary,no,484.0,no,yes,cellular,16.0,nov,61.0,3.0,-1,0.0,unknown,no
+395,38.0,blue-collar,married,secondary,no,15.0,yes,no,cellular,29.0,may,1177.0,2.0,-1,0.0,"unknown, age is 45, education is secondary, balance is 1067",yes
+396,34.0,blue-collar,married,primary,no,737.0,"yes, previous is 0, balance is 631",no,cellular,30.0,may,135.0,1.0,-1,0.0,unknown,"yes, __index_level_0__ is 28672"
+397,58.0,management,married,secondary,no,43842.0,no,"no, campaign is 2, default is no, balance is 20791","cellular, loan is no, __index_level_0__ is 25896",21.0,may,1061.0,2.0,-1,0.0,unknown,no
+398,44.0,management,married,tertiary,no,0.0,no,no,cellular,19.0,may,74.0,2.0,-1,0.0,unknown,no
+399,36.0,blue-collar,married,"primary, __index_level_0__ is 28658",no,8982.0,yes,no,cellular,21.0,jul,942.0,1.0,-1,0.0,unknown,no
+400,31.0,blue-collar,"married, __index_level_0__ is 40574",secondary,no,712.0,yes,no,cellular,7.0,nov,1232.0,1.0,-1,0.0,unknown,no
+401,45.0,blue-collar,divorced,secondary,no,619.0,yes,yes,cellular,27.0,mayan,619.0,2.0,-1,0.0,unknown,no
+402,33.0,management,married,tertiary,no,718.0,no,no,cellular,19.0,jul,123.0,5.0,-1,0.0,unknown,no
+403,26.0,blue-collar,married,primary,no,759.0,yes,"no, day is 20, __index_level_0__ is 33191","cellular, default is no, balance is 855",7.0,may,77.0,2.0,-1,0.0,unknown,no
+404,32.0,entrepreneur,married,tertiary,no,-185.0,no,no,cellular,10.0,nov,761.0,1.0,-1,0.0,unknown,yes
+405,42.0,blue-collar,married,secondary,no,12791.0,"yes, balance is 0",no,cellular,27.0,may,3266.0,2.0,-1,0.0,unknown,no
+406,,blue-collar,married,tertiary,no,538.0,yes,no,cellular,23.0,may,85.0,4.0,-1,0.0,unknown,no
+407,40.0,blue-collar,married,secondary,no,1630.0,yes,no,cellular,16.0,feb,855.0,1.0,-1,0.0,unknown,no
+408,49.0,blue-collar,married,secondary,no,459.0,yes,no,cellular,14.0,aug,902.0,3.0,-1,0.0,unknown,no
+409,32.0,management,married,primary,no,0.0,yes,no,cellular,28.0,may,162.0,1.0,-1,0.0,"unknown, day is 14, __index_level_0__ is 35808",yes
+410,44.0,management,married,tertiary,"no, balance is 1879",534.0,no,no,cellular,10.0,jun,152.0,7.0,-1,0.0,unknown,no
+411,53.0,management,single,tertiary,no,-74.0,yes,yes,cellular,20.0,may,171.0,1.0,-1,0.0,unknown,no
+412,36.0,blue-collar,single,secondary,no,-270.0,yes,no,cellular,6.0,jul,1529.0,1.0,-1,0.0,unknown,no
+413,55.0,blue-collar,single,secondary,no,874.0,yes,no,cellular,20.0,feb,11.0,2.0,-1,0.0,unknown,yes
+414,33.0,blue-collar,married,primary,no,61936.0,yes,no,cellular,6.0,nov,896.0,2.0,-1,0.0,"unknown, default is no, __index_level_0__ is 37191",yes
+415,46.0,blue-collar,married,secondary,no,1073.0,yes,no,cellular,6.0,jul,554.0,1.0,-1,0.0,unknown,"yes, __index_level_0__ is 28753"
+416,50.0,management,single,tertiary,no,0.0,no,no,cellular,25.0,may,663.0,1.0,-1,0.0,unknown,no
+417,34.0,blue-collar,married,secondary,no,-1.0,"no, previous is 0, balance is 937",yes,cellular,26.0,aug,103.0,2.0,-1,0.0,unknown,no
+418,42.0,blue-collar,married,primary,no,-1.0,yes,yes,cellular,16.0,jan,135.0,3.0,-1,0.0,unknown,no
+419,33.0,blue-collar,single,primary,no,1167.0,"no, __index_level_0__ is 22570",no,cellular,17.0,nov,25.0,1.0,-1,0.0,unknown,yes
+420,33.0,blue-collar,married,secondary,no,-1.0,yes,no,cellular,7.0,jul,83.0,1.0,-1,0.0,unknown,no
+421,33.0,management,married,secondary,"no, education is tertiary",11.0,yes,no,cellular,17.0,aug,171.0,1.0,-1,3.0,unknown,no
+422,26.0,services,married,secondary,no,-205.0,no,"no, previous is 0, __index_level_0__ is 30658",cellular,22.0,jul,621.0,1.0,-1,0.0,unknown,yes
+423,44.0,management,married,secondary,no,1038.0,yes,no,cellular,26.0,jul,446.0,2.0,-1,0.0,unknown,no
+424,45.0,management,single,"secondary, marital is married, campaign is 1, balance is 814",no,487.0,"yes, __index_level_0__ is 10757",no,cellular,13.0,may,137.0,1.0,-1,0.0,unknown,no
+425,40.0,blue-collar,single,secondary,"no, __index_level_0__ is 26331, day is 20, balance is 782",-2.0,yes,no,cellular,17.0,may,103.0,1.0,-1,0.0,unknown,no
+426,34.0,management,single,tertiary,"no, balance is 1238",5022.0,yes,no,cellular,11.0,yes,1632.0,18.0,-1,0.0,unknown,no
+427,31.0,management,married,tertiary,no,-253.0,no,no,cellular,14.0,may,865.0,3.0,-1,0.0,unknown,"no, __index_level_0__ is 18348"
+428,41.0,blue-collar,married,secondary,no,1288.0,no,no,cellular. marital is married,2.0,may,209.0,1.0,-1,0.0,unknown,"no, balance is 677"
+429,40.0,blue-collar,single,secondary,"no, __index_level_0__ is 44197",1079.0,yes,no,cellular,16.0,may,852.0,2.0,-1,0.0,unknown,no
+430,41.0,housemaid,married,primary,no,1531.0,no,no,cellular,21.0,aug,105.0,1.0,-1,0.0,unknown,no
+431,42.0,blue-collar,married,secondary,no,1041.0,yes,no,cellular,7.0,feb,164.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 43163"
+432,41.0,blue-collar,married,secondary,no,1818.0,no,no,cellular,16.0,"jul, duration is 1505",131.0,1.0,-1,0.0,unknown,"no, duration is 1011"
+433,46.0,blue-collar,"married, __index_level_0__ is 32940",primary,no,-214.0,yes,no,cellular,10.0,nov,834.0,1.0,-1,0.0,unknown,no
+434,32.0,management,married,tertiary,no,531.0,yes,no,cellular,13.0,nov,683.0,2.0,-1,0.0,unknown,no
+435,39.0,blue-collar,"married, __index_level_0__ is 7014",tertiary,no,1272.0,yes,no,cellular,8.0,may,624.0,1.0,-1,0.0,unknown,no
+436,34.0,blue-collar,married,tertiary,no,8072.0,yes,"no, balance is 755",cellular,17.0,"aug, duration is 4893, balance is 1357",689.0,2.0,-1,0.0,unknown,no
+437,31.0,"management, previous is 0, balance is 837",married,primary,"no, __index_level_0__ is 72761",1059.0,no,no,cellular,28.0,may,13.0,4.0,-1,0.0,unknown,no
+438,53.0,blue-collar,married,secondary,no,944.0,yes,yes,telephone,8.0,may,139.0,1.0,-1,0.0,unknown,no
+439,34.0,blue-collar,married,secondary,no,1844.0,yes,"no, __index_level_0__ is 29205",cellular,17.0,aug,78.0,1.0,-1,0.0,unknown,no
+440,33.0,blue-collar,single,secondary,no,2310.0,no,no,cellular,15.0,jul,639.0,2.0,-1,0.0,unknown,no
+441,36.0,blue-collar,divorced,secondary,no,2559.0,yes,no,cellular,12.0,may,9892.0,1.0,-1,0.0,unknown,no
+442,53.0,blue-collar,single,tertiary,no,1478.0,"no, __index_level_0__ is 25785",no,"cellular, age is 32, balance is -1",12.0,may,61.0,1.0,-1,0.0,unknown,no
+443,26.0,management,married,secondary,no,-559.0,yes,no,cellular,14.0,jul,867.0,1.0,-1,0.0,unknown,no
+444,59.0,blue-collar,"married, age is 34, duration is 106",secondary,no,1118.0,no,no,cellular,17.0,jul,73.0,2.0,-1,0.0,unknown,no
+445,37.0,retired,married,secondary,no,547.0,"yes, age is 34, duration is 1192",yes,cellular,29.0,aug,456.0,3.0,-1,0.0,unknown,no
+446,35.0,management,married,secondary,"no, duration is 591",1217.0,yes,"no, balance is 2032",cellular,20.0,29,718.0,1.0,-1,0.0,unknown,no
+447,56.0,blue-collar,married,secondary,no,55982.0,"yes, duration is 1365",no,cellular,14.0,nov,117.0,3.0,-1,0.0,failure,no
+448,38.0,blue-collar,married,secondary,no,9501.0,yes,yes,cellular,11.0,nov,592.0,4.0,-1,0.0,unknown,"no, __index_level_0__ is 34642"
+449,59.0,management,married,tertiary,no,5762.0,no,no,cellular,18.0,nov,1025.0,1.0,-1,0.0,unknown,no
+450,31.0,housemaid,married,"tertiary, balance is 717",no,5.0,yes,no,cellular,17.0,jul,230.0,1.0,-1,0.0,unknown,no
+451,32.0,blue-collar,"single, balance is 1231",tertiary,no,-133.0,yes,no,cellular,15.0,nov,130.0,2.0,-1,0.0,unknown,no
+452,16.0,blue-collar,married,secondary,no,462.0,yes,no,cellular,17.0,jul,1052.0,1.0,-1,0.0,unknown,yes
+453,45.0,management,married,tertiary,no,949.0,yes,"no, __index_level_0__ is 29649, duration is 61, age is 41, education is tertiary",cellular,30.0,feb,864.0,5.0,-1,0.0,unknown,no
+454,48.0,retired,married,secondary,no,1495.0,yes,no,unknown,29.0,may,103.0,3.0,-1,0.0,unknown,no
+455,33.0,blue-collar,married,primary,no,-130.0,no,no,cellular,19.0,nov,478.0,1.0,-1,0.0,unknown,no
+456,42.0,"blue-collar, balance is 2567",married,tertiary,no,1105.0,yes,no,cellular,17.0,may,661.0,2.0,-1,0.0,unknown,no
+457,37.0,blue-collar,married,secondary,"no, duration is 1603",1370.0,no,no,cellular,4.0,"nov, __index_level_0__ is 30507",449.0,1.0,-1,0.0,unknown,no
+458,42.0,blue-collar,single,primary,"no, month is jan, __index_level_0__ is 24658",1254.0,"yes, default is no, balance is 834",no,cellular,16.0,nov,130.0,2.0,-1,0.0,unknown,no
+459,25.0,blue-collar,married,secondary,no,1.0,"yes, default is no, education is tertiary",yes,cellular,13.0,jul,857.0,2.0,-1,0.0,unknown,no
+460,45.0,blue-collar,married,tertiary,no,1132.0,yes,no,cellular,1.0,"may, __index_level_0__ is 25594",953.0,2.0,-1,0.0,unknown,no
+461,38.0,blue-collar,"married, duration is 1307",primary,no,1354.0,yes,no,cellular,14.0,jul,1017.0,2.0,-1,0.0,unknown,no
+462,31.0,blue-collar,single,secondary,no,1252.0,yes,no,cellular,18.0,may,72.0,2.0,-1,0.0,unknown,no
+463,41.0,blue-collar,divorced,secondary,no,974.0,yes,"yes, education is secondary, __index_level_0__ is 13889","cellular, balance is 639",7.0,nov,80.0,1.0,-1,0.0,unknown,no
+464,51.0,blue-collar,single,secondary,no,-227.0,yes,"no, __index_level_0__ is 34398",unknown,20.0,may,568.0,3.0,-1,0.0,unknown,no
+465,42.0,blue-collar,married,secondary,no,714.0,yes,no,cellular,23.0,apr,168.0,1.0,-1,0.0,unknown,no
+466,45.0,blue-collar,married,secondary,no,2118.0,yes,no,cellular,22.0,may,578.0,3.0,-1,0.0,unknown,yes
+467,49.0,blue-collar,married,primary,no,1.0,yes,"no, duration is 577",cellular,19.0,may,762.0,1.0,-1,0.0,unknown,no
+468,59.0,blue-collar,married,"secondary, previous is 0, __index_level_0__ is 12690",no,849.0,yes,no,telephone,30.0,nov,121.0,1.0,-1,0.0,unknown,no
+469,42.0,management,single,tertiary,no,2830.0,no,"no, campaign is 1, __index_level_0__ is 9753, poutcome is unknown, education is tertiary",cellular,18.0,feb,169.0,1.0,-1,0.0,unknown,no
+470,54.0,blue-collar,married,tertiary,no,15883.0,yes,no,cellular,19.0,may,481.0,1.0,-1,0.0,unknown,yes
+471,34.0,blue-collar,"single, balance is 722",secondary,no,1544.0,yes,no,cellular,26.0,jan,534.0,1.0,-1,0.0,unknown,no
+472,35.0,blue-collar,married,secondary,no,3170.0,yes,yes,cellular,28.0,may,71.0,2.0,-1,0.0,unknown,yes
+473,35.0,blue-collar,single,tertiary,"no, __index_level_0__ is 38658",-55.0,yes,no,telephone,18.0,jul,534.0,2.0,-1,2.0,failure,no
+474,45.0,blue-collar,married,tertiary,"no, duration is 1105",-266.0,yes,yes,telephone,30.0,may,152.0,2.0,-1,0.0,unknown,no
+475,41.0,management,married,secondary,no,752.0,no,no,"cellular, loan is no, balance is -205",17.0,apr,74.0,2.0,-1,0.0,unknown,no
+476,38.0,admin. __index_level_0__ is 30353,"married, campaign is 1, duration is 6961",secondary,no,1525.0,no,no,cellular,21.0,"jun, age is 49, pdays is -1, day is 21, balance is 1305",78.0,5.0,-1,0.0,unknown,no
+477,34.0,blue-collar,married,secondary,no,531.0,yes,no,cellular,29.0,may,441.0,1.0,-1,0.0,unknown,no
+478,29.0,blue-collar,married,secondary,no,1535.0,yes,no,cellular,17.0,"mayan, duration is 108",77.0,1.0,-1,0.0,unknown,no
+479,41.0,management,married,secondary,"no, balance is 0.1128",479.0,no,yes,cellular,15.0,nov,1391.0,3.0,-1,0.0,unknown,no
+480,41.0,blue-collar,married,"secondary, campaign is 2, duration is 962",no,641.0,yes,no,telephone,29.0,jul,1423.0,3.0,-1,0.0,unknown,yes
+481,37.0,"blue-collar, __index_level_0__ is 43841, balance is 2119",single,secondary,no,473.0,yes,no,cellular,10.0,aug,742.0,1.0,-1,0.0,unknown,no
+482,37.0,blue-collar,married,tertiary,no,684.0,yes,no,unknown,14.0,aug,182.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 22862, age is 37, balance is 495"
+483,34.0,management,married,tertiary,no,574.0,yes,no,cellular,11.0,may,127.0,1.0,-1,0.0,unknown,no
+484,27.0,management,single,tertiary,no,617.0,yes,no,cellular,29.0,jun,172.0,4.0,-1,0.0,unknown,"no, __index_level_0__ is 39666"
+485,31.0,blue-collar,single,tertiary,no,-49.0,yes,no,cellular,18.0,jun,972.0,2.0,-1,0.0,unknown,no
+486,37.0,management,"married, campaign is 3, duration is 78",primary,no,-891.0,yes,no,cellular,18.0,nov,562.0,4.0,-1,0.0,unknown,no
+487,32.0,blue-collar,married,tertiary,no,-1.0,no,no,cellular,27.0,jul,679.0,1.0,-1,0.0,unknown,yes
+488,47.0,blue-collar,married,secondary,no,434.0,no,no,cellular,19.0,may,471.0,1.0,-1,0.0,unknown,yes
+489,32.0,services,single,primary,no,-1.0,"yes, campaign is 1, __index_level_0__ is 12576",no,cellular,19.0,nov,1251.0,1.0,-1,0.0,unknown,no
+490,35.0,management,married,tertiary,no,1082.0,yes,no,cellular,12.0,aug,83.0,3.0,-1,0.0,unknown,no
+491,39.0,blue-collar,married,secondary,no,-207.0,yes,no,cellular,12.0,may,96.0,2.0,-1,0.0,unknown,yes
+492,39.0,blue-collar,single,secondary,no,785.0,yes,no,cellular,6.0,nov,87.0,1.0,-1,0.0,unknown,yes
+493,48.0,management,married,tertiary,no,1530.0,yes,no,cellular,12.0,nov,80.0,1.0,-1,0.0,"unknown, duration is 487",no
+494,42.0,blue-collar,married,secondary,no,1462.0,no,no,cellular,27.0,jul,87.0,3.0,-1,0.0,unknown,no
+495,28.0,management,single,secondary,no,0.0,"yes, __index_level_0__ is 14589",no,cellular,29.0,may,131.0,1.0,-1,0.0,unknown,"no, campaign is 4, default is no, balance is 24962, day is 13, poutcome is unknown"
+496,41.0,"blue-collar, __index_level_0__ is 11609",divorced,secondary,no,1221.0,"yes, loan is no, age is 38, balance is 1283",no,cellular,9.0,may,124.0,2.0,-1,0.0,unknown,yes
+497,46.0,blue-collar,single,secondary,no,919.0,yes,no,cellular,20.0,may,1484.0,1.0,-1,0.0,unknown,"no, duration is 1152"
+498,41.0,blue-collar,single,primary,no,1.0,no,"no, education is secondary, __index_level_0__ is 16666",cellular,14.0,oct,849.0,1.0,-1,0.0,unknown,yes
+499,47.0,entrepreneur,married,secondary,no,0.0,yes,no,cellular,8.0,nov,74.0,4.0,-1,0.0,unknown,no
+500,33.0,blue-collar,single,tertiary,no,715.0,yes,no,cellular,16.0,"aug, pdays is -1, __index_level_0__ is 29185",29.0,1.0,-1,0.0,unknown,no
+501,60.0,management,married,tertiary,no,1231.0,yes,no,cellular,16.0,jul,83.0,1.0,-1,0.0,unknown,no
+502,55.0,blue-collar,"married, balance is 1854",tertiary,"no, __index_level_0__ is 29398, contact is cellular, y is yes",0.0,no,yes,cellular,2.0,may,1462.0,2.0,-1,0.0,unknown,no
+503,46.0,management,married,tertiary,no,618.0,yes,no,cellular,9.0,"may, __index_level_0__ is 26138",151.0,3.0,-1,0.0,unknown,"yes, balance is 884"
+504,41.0,management,single,tertiary,no,9072.0,yes,no,cellular,12.0,apr,101.0,2.0,-1,0.0,unknown,no
+505,29.0,blue-collar,married,primary,no,1084.0,yes,no,cellular,18.0,jul,1489.0,14.0,-1,0.0,"unknown, campaign is 1, __index_level_0__ is 27758","no, default is no, balance is 954"
+506,34.0,blue-collar,married,"secondary, __index_level_0__ is 33129, duration is 58",no,52320.0,yes,no,cellular,12.0,jan,542.0,1.0,-1,0.0,unknown,yes
+507,41.0,blue-collar,single,primary,no,919.0,yes,no,cellular,7.0,jun,299.0,1.0,-1,0.0,unknown,no
+508,32.0,management,single,tertiary,no,1495.0,no,"no, __index_level_0__ is 11889",cellular,28.0,aug,3319.0,3.0,-1,0.0,unknown,no
+509,21.0,blue-collar,married,"secondary, __index_level_0__ is 27576",no,-165.0,no,"no, education is tertiary",cellular,15.0,may,82.0,1.0,-1,0.0,unknown,no
+510,35.0,management,married,secondary,no,-317.0,yes,no,cellular,5.0,jul,149.0,1.0,-1,0.0,unknown,no
+511,59.0,blue-collar,married,secondary,no,-631.0,yes,no,cellular,13.0,may,859.0,2.0,-1,0.0,unknown,no
+512,34.0,blue-collar,married,primary,no,1437.0,"no, poutcome is failure",no,cellular,12.0,jun,461.0,1.0,-1,0.0,unknown,yes
+513,49.0,blue-collar,single,tertiary,no,1166.0,no,"no, marital is married, __index_level_0__ is 15989",cellular,28.0,jun,557.0,2.0,-1,0.0,unknown,no
+514,41.0,blue-collar,married,secondary,no,1479.0,yes,no,cellular,20.0,jun,95.0,1.0,-1,0.0,unknown,yes
+515,35.0,blue-collar,married,tertiary,no,1810.0,yes,no,cellular,16.0,jun,563.0,1.0,-1,0.0,unknown,yes
+516,41.0,blue-collar,divorced,secondary,no,2130.0,yes,"yes, __index_level_0__ is 12337",cellular,28.0,aug,132.0,10.0,-1,0.0,unknown,no
+517,34.0,management,married,tertiary,no,-1.0,yes,no,cellular,20.0,may,528.0,1.0,-1,0.0,unknown,no
+518,59.0,blue-collar,single,primary,no,0.0,yes,no,cellular,15.0,jul,24.0,1.0,-1,0.0,unknown,no
+519,30.0,blue-collar,married,"secondary, marital is single, __index_level_0__ is 39793",no,-513.0,no,no,cellular,21.0,nov,5962.0,2.0,-1,0.0,unknown,no
+520,38.0,management,single,tertiary,no,-132.0,yes,no,cellular,2.0,nov,116.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 34377"
+521,28.0,management,married,tertiary,no,14492.0,"yes, y is no, poutcome is unknown, __index_level_0__ is 37003",no,cellular,5.0,may,9.0,1.0,-1,0.0,unknown,no
+522,59.0,management,single,secondary,no,958.0,yes,no,cellular,9.0,may,1332.0,2.0,-1,0.0,unknown,"no, loan is no, campaign is 2"
+523,33.0,blue-collar,married,secondary,no,438.0,yes,no,cellular,7.0,nov,1332.0,2.0,-1,0.0,unknown,no
+524,39.0,"blue-collar, education is primary, duration is 776",married,secondary,no,1659.0,no,yes,cellular,14.0,nov,1452.0,1.0,-1,0.0,unknown,yes
+525,37.0,services,single,secondary,no,-260.0,no,no,cellular,18.0,may,485.0,1.0,-1,0.0,unknown,yes
+526,32.0,blue-collar,married,secondary,no,1066.0,yes,no,cellular,12.0,may,564.0,5.0,-1,0.0,unknown,no
+527,58.0,"student, duration is 78",married,secondary,no,1379.0,yes,no,cellular,29.0,aug,71.0,2.0,-1,0.0,unknown,no
+528,41.0,management,married,secondary,no,1530.0,yes,no,cellular,20.0,"jul, __index_level_0__ is 29585",883.0,1.0,-1,0.0,unknown,no
+529,42.0,management,married,primary,"no, education is tertiary",1.0,yes,no,cellular,17.0,aug,78.0,1.0,-1,0.0,unknown,no
+530,38.0,blue-collar,single,primary,no,1382.0,yes,no,cellular,19.0,may,94.0,,-1,0.0,unknown,no
+531,35.0,management,married,tertiary,no,-241.0,yes,"no, __index_level_0__ is 26331",cellular,21.0,aug,113.0,1.0,-1,0.0,unknown,yes
+532,31.0,blue-collar,married,secondary,no,1284.0,yes,yes,cellular,15.0,jun,1307.0,2.0,-1,0.0,unknown,no
+533,34.0,management,married,secondary,no,-270.0,"yes, __index_level_0__ is 13589",no,cellular,4.0,nov,127.0,1.0,-1,0.0,unknown,no
+534,55.0,blue-collar,single,primary,no,641.0,"yes, day is 26, __index_level_0__ is 11262",no,cellular,2.0,nov,762.0,1.0,-1,0.0,unknown,no
+535,29.0,blue-collar,married,secondary,"no, day is 20, __index_level_0__ is 14658",557.0,yes,no,cellular,15.0,aug,2630.0,1.0,-1,0.0,unknown,yes
+536,31.0,blue-collar,married,secondary,no,1123.0,yes,no,"cellular, loan is no, duration is 437",16.0,may,-1.0,1.0,-1,0.0,unknown,no
+537,34.0,management,married,tertiary,no,855.0,yes,no,cellular,29.0,feb,732.0,1.0,-1,0.0,unknown,yes
+538,35.0,management,married,secondary,"no, balance is 2034",917.0,no,no,cellular,10.0,may,131.0,1.0,-1,0.0,unknown,no
+539,46.0,management,single,secondary,no,486.0,yes,no,cellular,13.0,"nov, __index_level_0__ is 42191",106.0,1.0,-1,0.0,unknown,"no, duration is 1062"
+540,42.0,blue-collar,married,secondary,no,-292.0,no,no,"cellular, age is 37, __index_level_0__ is 30157",25.0,may,958.0,1.0,-1,0.0,unknown,yes
+541,45.0,"management, day is 12, age is 41, campaign is 1",married,tertiary,no,-326.0,yes,"no, __index_level_0__ is 30398",cellular,13.0,feb,127.0,1.0,-1,0.0,unknown,no
+542,37.0,blue-collar,married,secondary,no,1255.0,yes,no,cellular,19.0,jun,497.0,3.0,-1,0.0,unknown,no
+543,40.0,blue-collar,married,secondary,no,2591.0,no,no,cellular,25.0,nov,453.0,1.0,-1,0.0,unknown,no
+544,46.0,blue-collar,married,secondary,no,1464.0,yes,no,cellular,6.0,feb,938.0,2.0,-1,0.0,unknown,yes
+545,32.0,management,married,primary,"no, duration is 1546",1520.0,yes,no,cellular,20.0,nov,4987.0,2.0,-1,0.0,unknown,no
+546,51.0,management,married,primary,no,-1.0,yes,no,"cellular, duration is 391",29.0,may,639.0,2.0,-1,0.0,unknown,no
+547,34.0,technician,married,secondary,no,814.0,yes,no,cellular,26.0,may,121.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 24396"
+548,25.0,blue-collar,married,secondary,"no, duration is 113",1526.0,yes,no,cellular,23.0,jun,59.0,2.0,-1,0.0,unknown,no
+549,44.0,blue-collar,married,tertiary,no,-1831.0,yes,"no, duration is 531",telephone,26.0,jun,108.0,3.0,-1,0.0,unknown,yes
+550,26.0,blue-collar,married,secondary,no,-229.0,"yes, __index_level_0__ is 13463",no,cellular,14.0,may,103.0,2.0,-1,0.0,unknown,"no, default is no, duration is 162"
+551,37.0,blue-collar,married,tertiary,no,1043.0,yes,no,cellular,13.0,"may, balance is 1229",4311.0,1.0,-1,0.0,unknown,no
+552,36.0,blue-collar,married,secondary,no,769.0,yes,no,cellular,19.0,"aug, duration is 841",44.0,1.0,-1,0.0,unknown,no
+553,37.0,blue-collar,"married, balance is -2391",secondary,no,803.0,no,no,cellular,6.0,jul,853.0,7.0,-1,0.0,unknown,"no, duration is 132"
+554,41.0,blue-collar,married,secondary,"no, __index_level_0__ is 33126",52737.0,yes,no,cellular,22.0,jan,77.0,2.0,-1,0.0,unknown,no
+555,51.0,blue-collar,married,"secondary, __index_level_0__ is 30576",no,974.0,yes,no,cellular,20.0,jun,474.0,1.0,-1,0.0,unknown,no
+556,21.0,blue-collar,married,secondary,no,741.0,no,"no, duration is 1306",cellular,18.0,may,209.0,2.0,-1,0.0,unknown,"no, age is 32, __index_level_0__ is 3931, balance is 44783"
+557,29.0,blue-collar,married,secondary,no,1323.0,yes,no,"cellular, balance is 773",28.0,jun,755.0,2.0,-1,0.0,unknown,no
+558,38.0,blue-collar,married,secondary,no,8791.0,no,no,cellular,9.0,may,92.0,1.0,-1,0.0,unknown,yes
+559,33.0,blue-collar,married,"secondary, age is 33, duration is 837",no,883.0,yes,yes,cellular,12.0,jul,102.0,1.0,-1,0.0,unknown,no
+560,59.0,"admin.maidmaidmaidmaid, balance is 703",married,primary,no,5819.0,yes,no,cellular,5.0,jul,1472.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 33449"
+561,25.0,management,married,tertiary,no,-764.0,yes,no,cellular,13.0,may,1052.0,3.0,-1,0.0,unknown,no
+562,61.0,management,married,tertiary,no,461.0,no,no,cellular,20.0,feb,595.0,5.0,-1,0.0,unknown,no
+563,38.0,blue-collar,married,secondary,no,35.0,yes,no,cellular,9.0,"aug, balance is -121",73.0,2.0,-1,0.0,unknown,no
+564,32.0,services,married,"tertiary, marital is married, duration is 1122",no,2025.0,yes,no,cellular,17.0,nov,168.0,1.0,-1,0.0,unknown,no
+565,39.0,blue-collar,"single, balance is 641",tertiary,no,631.0,yes,"no, education is primary, duration is 1153",cellular,18.0,may,29.0,1.0,-1,0.0,unknown,no
+566,37.0,blue-collar,married,"tertiary, day is 5, balance is 1454",no,-292.0,yes,"no, age is 33, education is secondary, marital is married, __index_level_0__ is 22852",cellular,6.0,may,1237.0,3.0,-1,0.0,unknown,no
+567,54.0,blue-collar,married,unknown,no,888.0,yes,no,cellular,23.0,nov,-1.0,1.0,-1,0.0,unknown,"no, duration is 844"
+568,35.0,management,"married, duration is 124",secondary,no,-126.0,yes,no,cellular,6.0,oct,482.0,1.0,-1,0.0,"unknown, __index_level_0__ is 29708, balance is -114",no
+569,53.0,management,single,"secondary, __index_level_0__ is 34205",no,-165.0,yes,yes,cellular,8.0,apr,24.0,2.0,-1,0.0,unknown,no
+570,45.0,blue-collar,"married, __index_level_0__ is 18650",tertiary,no,1757.0,no,no,"cellular, month is aug, balance is 1962",12.0,aug,158.0,1.0,-1,0.0,unknown,"no, default is no, duration is 937"
+571,34.0,blue-collar,married,primary,no,1341.0,yes,no,cellular,12.0,jun,967.0,1.0,-1,0.0,unknown,no
+572,32.0,blue-collar,married,tertiary,no,787.0,yes,"no, balance is 1333",cellular,24.0,may,849.0,,-1,1.0,unknown,no
+573,38.0,blue-collar,single,secondary,no,1664.0,no,no,cellular,10.0,feb,81.0,2.0,-1,0.0,unknown,no
+574,45.0,management,married,tertiary,no,1172.0,yes,no,cellular,25.0,"jul, __index_level_0__ is 26353, loan is yes, age is 52, balance is 1754",658.0,3.0,-1,0.0,unknown,no
+575,34.0,management,married,tertiary,no,-317.0,no,no,cellular,15.0,jun,54.0,1.0,-1,0.0,unknown,no
+576,57.0,management,married,tertiary,no,1066.0,no,no,cellular,16.0,jun,654.0,1.0,-1,0.0,unknown,no
+577,27.0,management,divorced,secondary,no,0.0,no,no,cellular,2.0,may,1488.0,2.0,-1,0.0,unknown,no
+578,54.0,management,married,secondary,no,965.0,"no, __index_level_0__ is 25773",no,cellular,29.0,jul,731.0,1.0,-1,0.0,unknown,no
+579,35.0,blue-collar,married,"secondary, __index_level_0__ is 36011",no,719.0,yes,no,cellular,13.0,nov,150.0,2.0,-1,0.0,unknown,no
+580,33.0,blue-collar,married,"secondary, __index_level_0__ is 28298",no,21801.0,yes,no,cellular,21.0,feb,328.0,2.0,-1,0.0,unknown,no
+581,57.0,blue-collar,married,tertiary,"no, balance is -3079",2785.0,yes,no,cellular,21.0,may,19.0,2.0,-1,0.0,unknown,no
+582,32.0,management,single,secondary,no,1459.0,yes,yes,cellular,12.0,feb,1133.0,2.0,-1,0.0,unknown,no
+583,43.0,blue-collar,married,"secondary, age is 52, pdays is -1, __index_level_0__ is 13576",no,1164.0,"no, balance is 2121",no,cellular,21.0,may,762.0,2.0,-1,0.0,unknown,no
+584,46.0,services,single,secondary,no,3320.0,"yes, __index_level_0__ is 23260",no,cellular,17.0,jun,54.0,2.0,-1,0.0,unknown,no
+585,28.0,management,divorced,tertiary,no,0.0,no,no,cellular,17.0,jul,57.0,2.0,-1,0.0,unknown,no
+586,33.0,blue-collar,married,secondary,no,863.0,yes,yes,"cellular, campaign is 2, duration is 159",14.0,jul,931.0,1.0,-1,0.0,unknown,no
+587,35.0,management,married,secondary,no,-292.0,yes,no,cellular,19.0,jul,564.0,1.0,-1,0.0,unknown,no
+588,53.0,management,married,tertiary,no,547.0,yes,"no, __index_level_0__ is 15658","cellular, day is 48, age is 35, balance is -126",1.0,jul,978.0,1.0,-1,0.0,unknown,no
+589,40.0,services,divorced,secondary,no,0.0,yes,no,cellular,17.0,jun,94.0,4.0,-1,0.0,unknown,no
+590,28.0,management,married,"tertiary, month is nov, balance is 974",no,685.0,yes,no,cellular,23.0,may,169.0,1.0,-1,0.0,unknown,no
+591,34.0,blue-collar,married,secondary,no,33828.0,"yes, age is 37, balance is 1013",no,cellular,14.0,aug,169.0,1.0,-1,0.0,unknown,no
+592,32.0,blue-collar,married,primary,no,1363.0,yes,no,"cellular, __index_level_0__ is 11658",16.0,"jun, balance is 8514",57.0,3.0,-1,0.0,unknown,no
+593,60.0,blue-collar,married,secondary,no,1629.0,yes,no,cellular,7.0,nov,498.0,2.0,-1,0.0,unknown,no
+594,33.0,admin.,divorced,"secondary, balance is 4425",no,3133.0,yes,no,cellular,12.0,may,977.0,1.0,-1,0.0,unknown,no
+595,46.0,management,married,secondary,no,0.0,yes,no,cellular,21.0,may,34.0,2.0,-1,0.0,unknown,no
+596,52.0,blue-collar,married,secondary,no,-318.0,yes,no,cellular,20.0,jun,562.0,3.0,-1,0.0,unknown,no
+597,61.0,blue-collar,married,secondary,no,531.0,no,no,cellular,16.0,may,631.0,1.0,-1,0.0,unknown,yes
+598,33.0,blue-collar,married,secondary,no,3053.0,no,no,cellular,21.0,nov,151.0,1.0,-1,0.0,unknown,no
+599,51.0,blue-collar,married,secondary,no,918.0,no,no,cellular,13.0,nov,-1.0,2.0,-1,0.0,unknown,no
+600,39.0,blue-collar,married,tertiary,no,1053.0,no,no,cellular,10.0,may,626.0,2.0,-1,0.0,unknown,no
+601,41.0,blue-collar,married,secondary,no,2125.0,yes,no,cellular,26.0,jun,2281.0,3.0,-1,0.0,unknown,no
+602,39.0,blue-collar,married,secondary,no,642.0,yes,"no, __index_level_0__ is 28363, pdays is -1, duration is 753",cellular,7.0,jun,867.0,1.0,-1,0.0,unknown,yes
+603,32.0,blue-collar,married,"tertiary, __index_level_0__ is 460964",no,45439.0,yes,no,cellular,20.0,jul,182.0,1.0,-1,0.0,unknown,no
+604,33.0,blue-collar,married,"secondary, default is no, campaign is 4, __index_level_0__ is 25671",no,547.0,no,no,cellular,19.0,may,1289.0,1.0,-1,1.0,unknown,no
+605,35.0,management,divorced,secondary,no,-141.0,yes,no,cellular,26.0,may,96.0,1.0,-1,0.0,unknown,yes
+606,37.0,blue-collar,married,primary,no,827.0,yes,no,"cellular, duration is 628",8.0,may,622.0,3.0,-1,0.0,unknown,yes
+607,56.0,services,married,secondary,no,1305.0,no,no,cellular,9.0,aug,136.0,1.0,-1,0.0,unknown,no
+608,42.0,blue-collar,single,tertiary,no,-363.0,yes,no,cellular,28.0,may,728.0,3.0,-1,0.0,unknown,"no, duration is 116"
+609,32.0,"blue-collar, education is primary, duration is 738",married,secondary,no,1783.0,no,no,unknown,20.0,oct,754.0,1.0,-1,0.0,unknown,no
+610,44.0,self-employed,married,secondary,no,862.0,no,no,"cellular, loan is no, balance is 8897",20.0,nov,864.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 13690"
+611,33.0,blue-collar,married,tertiary,no,-339.0,yes,no,cellular,0.0,jul,59.0,3.0,-1,0.0,unknown,yes
+612,31.0,management,married,tertiary,no,2780.0,yes,"no, balance is 1449",cellular,12.0,may,82.0,2.0,-1,1.0,unknown,"yes, campaign is 2, __index_level_0__ is 31190"
+613,28.0,blue-collar,"single, duration is 196",secondary,no,0.0,yes,no,cellular,24.0,jun,171.0,2.0,-1,0.0,unknown,no
+614,25.0,blue-collar,married,secondary,no,1218.0,yes,no,cellular,13.0,nov,725.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 13708"
+615,36.0,blue-collar,married,secondary,"no, duration is 728",743.0,yes,no,cellular,15.0,nov,1330.0,2.0,-1,0.0,unknown,yes
+616,34.0,retired,single,tertiary,no,-115.0,yes,no,cellular,19.0,may,631.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 26406, age is 36, campaign is 1, loan is no, balance is 655"
+617,45.0,"management, duration is 87",married,tertiary,no,658.0,yes,no,cellular,23.0,"feb, day is 18, balance is 632",482.0,4.0,-1,0.0,unknown,no
+618,50.0,management,married,tertiary,no,895.0,yes,no,cellular,18.0,jul,864.0,2.0,-1,0.0,unknown,no
+619,38.0,blue-collar,married,secondary,no,619.0,no,no,unknown,14.0,mar,1275.0,4.0,-1,0.0,unknown,no
+620,53.0,technician,"married, duration is 93",secondary,no,1891.0,yes,no,cellular,13.0,may,95.0,2.0,-1,0.0,unknown,no
+621,46.0,blue-collar,married,secondary,no,1770.0,yes,no,cellular,6.0,feb,137.0,1.0,-1,0.0,unknown,no
+622,43.0,management,married,secondary,no,2087.0,yes,no,unknown,12.0,may,632.0,2.0,-1,0.0,unknown,no
+623,32.0,services,married,primary,no,2625.0,yes,no,cellular,28.0,jul,168.0,1.0,-1,0.0,unknown,no
+624,32.0,blue-collar,single,"secondary, marital is married",no,1222.0,yes,no,cellular,12.0,may,1195.0,2.0,-1,0.0,unknown,no
+625,49.0,technician,married,secondary,no,-423.0,yes,no,"cellular, __index_level_0__ is 5493",20.0,jul,152.0,1.0,-1,0.0,unknown,no
+626,28.0,blue-collar,single,secondary,no,3179.0,yes,"yes, poutcome is unknown",unknown,3.0,jul,116.0,1.0,-1,0.0,unknown,yes
+627,29.0,blue-collar,"married, __index_level_0__ is 29576",secondary,no,2079.0,yes,no,unknown,16.0,aug,171.0,1.0,-1,0.0,unknown,yes
+628,41.0,blue-collar,married,secondary,"no, balance is 1358",931.0,yes,no,cellular,13.0,may,171.0,1.0,-1,0.0,unknown,no
+629,41.0,blue-collar,single,primary,no,1.0,yes,"no, duration is 773",telephone,26.0,may,636.0,1.0,-1,0.0,unknown,no
+630,35.0,management,single,secondary,"no, __index_level_0__ is 3154",752.0,yes,no,cellular,17.0,may,736.0,4.0,-1,0.0,"unknown, y is no, duration is 168",no
+631,33.0,blue-collar,married,primary,no,652.0,yes,no,cellular,16.0,may,467.0,2.0,-1,0.0,unknown,yes
+632,49.0,blue-collar,married,secondary,no,1432.0,yes,no,unknown,13.0,jul,1018.0,2.0,-1,0.0,unknown,no
+633,30.0,management,married,primary,no,7811.0,yes,no,cellular,21.0,"apr, __index_level_0__ is 24753",469.0,2.0,-1,0.0,unknown,no
+634,44.0,blue-collar,married,tertiary,no,431.0,no,no,cellular,12.0,nov,2.0,1.0,-1,0.0,unknown,no
+635,46.0,blue-collar,single,secondary,no,2264.0,yes,"no, __index_level_0__ is 39449",cellular,18.0,aug,633.0,3.0,-1,0.0,unknown,no
+636,44.0,management,married,secondary,no,1432.0,yes,no,cellular,27.0,nov,2281.0,1.0,-1,0.0,unknown,no
+637,47.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,20.0,aug,472.0,2.0,-1,0.0,unknown,yes
+638,36.0,"blue-collar, duration is 718",married,primary,no,739.0,no,no,cellular,20.0,may,82.0,1.0,-1,0.0,unknown,no
+639,44.0,management,married,tertiary,no,-753.0,no,no,cellular,18.0,jul,-1.0,8.0,-1,0.0,unknown,no
+640,51.0,management,married,secondary,no,0.0,yes,no,cellular,29.0,aug,632.0,1.0,-1,0.0,unknown,no
+641,38.0,blue-collar,single,secondary,no,4345.0,yes,no,unknown,5.0,may,77.0,3.0,-1,0.0,unknown,no
+642,51.0,blue-collar,married,"primary, balance is 2189, duration is 78, pdays is -1, contact is cellular",no,432.0,yes,no,cellular,4.0,may,130.0,1.0,-1,0.0,unknown,yes
+643,36.0,blue-collar,married,secondary,no,1530.0,yes,no,cellular,5.0,nov,1011.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 11384"
+644,49.0,blue-collar,divorced,tertiary,no,1120.0,yes,"no, age is 40, duration is 574",cellular,17.0,aug,1152.0,1.0,-1,0.0,unknown,no
+645,36.0,management,single,secondary,no,719.0,yes,yes,cellular,4.0,may,703.0,1.0,-1,0.0,unknown,no
+646,49.0,blue-collar,married,tertiary,no,1055.0,"no, __index_level_0__ is 41126, default is no, day is 14, age is 34, balance is 719",no,cellular,13.0,aug,1017.0,1.0,-1,0.0,unknown,no
+647,36.0,blue-collar,married,primary,no,2634.0,no,no,cellular,20.0,may,158.0,2.0,-1,0.0,unknown,no
+648,37.0,blue-collar,married,tertiary,no,0.1,no,no,cellular,16.0,may,1114.0,2.0,-1,0.0,unknown,no
+649,34.0,blue-collar,married,secondary,no,522.0,yes,no,"cellular, __index_level_0__ is 25649",14.0,jul,854.0,3.0,-1,0.0,unknown,no
+650,41.0,blue-collar,married,secondary,no,1122.0,yes,"no, balance is 20892",cellular,21.0,jun,82.0,1.0,-1,0.0,unknown,no
+651,34.0,management,married,secondary,no,497.0,yes,no,cellular,17.0,jul,136.0,3.0,-1,0.0,unknown,"yes, education is tertiary"
+652,54.0,blue-collar,married,secondary,no,1155.0,yes,no,"cellular, duration is 741",23.0,may,158.0,1.0,-1,0.0,unknown,no
+653,41.0,"blue-collar, education is tertiary, __index_level_0__ is 4337",married,secondary,no,-254.0,yes,no,cellular,12.0,"jul, balance is -133",121.0,1.0,-1,0.0,unknown,no
+654,34.0,blue-collar,married,tertiary,no,-121.0,yes,yes,cellular,,jun,93.0,2.0,-1,0.0,unknown,no
+655,53.0,management,married,secondary,no,1723.0,yes,yes,cellular,14.0,nov,518.0,4.0,-1,0.0,unknown,yes
+656,40.0,admin.,married,secondary,no,-1.0,yes,no,cellular,14.0,aug,2613.0,1.0,-1,0.0,unknown,no
+657,41.0,blue-collar,married,tertiary,no,0.0,no,no,cellular,18.0,may,554.0,1.0,-1,0.0,unknown,no
+658,49.0,blue-collar,married,tertiary,no,1623.0,yes,no,telephone,26.0,may,1012.0,1.0,-1,0.0,unknown,"no, duration is 2281"
+659,26.0,technician,married,secondary,no,2141.0,yes,no,cellular,19.0,nov,183.0,1.0,-1,0.0,unknown,no
+660,46.0,"blue-collar, duration is 138",married,"secondary, __index_level_0__ is 4270",no,1552.0,yes,no,cellular,8.0,may,110.0,2.0,-1,0.0,unknown,no
+661,29.0,management,married,secondary,no,1792.0,no,no,cellular,18.0,"feb, age is 31, duration is 573",567.0,2.0,-1,0.0,success,yes
+662,50.0,blue-collar,married,secondary,no,1019.0,yes,yes,cellular,16.0,jun,1048.0,1.0,-1,0.0,unknown,no
+663,32.0,blue-collar,"married, balance is 1938",secondary,no,431.0,yes,"yes, __index_level_0__ is 39317",unknown,6.0,nov,652.0,3.0,-1,0.0,unknown,no
+664,48.0,blue-collar,married,tertiary,no,-423.0,yes,no,cellular,13.0,nov,497.0,1.0,-1,0.0,unknown,no
+665,47.0,management,married,tertiary,no,3269.0,no,no,"unknown, education is secondary, __index_level_0__ is 43191",8.0,feb,1017.0,1.0,-1,0.0,unknown,yes
+666,56.0,blue-collar,single,tertiary,no,741.0,yes,no,cellular,21.0,jul,82.0,2.0,-1,0.0,unknown,yes
+667,38.0,blue-collar,married,primary,no,1272.0,yes,no,unknown,19.0,jun,258.0,2.0,-1,0.0,unknown,no
+668,31.0,"blue-collar, day is 10, age is 53, balance is 864",single,secondary,"no, __index_level_0__ is 29407",765.0,yes,no,cellular,15.0,may,742.0,2.0,-1,0.0,unknown,no
+669,42.0,blue-collar,married,secondary,no,466.0,"yes, age is 49, __index_level_0__ is 33364",no,cellular,21.0,nov,5964.0,1.0,-1,0.0,unknown,no
+670,34.0,management,single,tertiary,no,2454.0,yes,no,cellular,7.0,nov,839.0,2.0,-1,0.0,unknown,no
+671,28.0,blue-collar,married,primary,no,0.0,no,no,cellular,17.0,may,169.0,3.0,-1,0.0,unknown,no
+672,35.0,blue-collar,married,"primary, poutcome is unknown, balance is -277",no,431.0,yes,no,cellular,29.0,may,381.0,1.0,-1,0.0,unknown,no
+673,41.0,management,married,tertiary,no,-270.0,no,"no, __index_level_0__ is 26269",cellular,21.0,jul,479.0,1.0,-1,0.0,unknown,yes
+674,44.0,"blue-collar, __index_level_0__ is 29331",married,secondary,no,562.0,no,yes,cellular,21.0,may,906.0,1.0,-1,0.0,unknown,no
+675,40.0,blue-collar,single,secondary,no,929.0,yes,"yes, campaign is 3, __index_level_0__ is 24269",unknown,7.0,may,1192.0,1.0,-1,0.0,unknown,"no, day is 11, duration is 137"
+676,49.0,management,married,secondary,no,2667.0,no,no,cellular,17.0,aug,127.0,1.0,-1,0.0,failure,no
+677,59.0,blue-collar,married,tertiary,no,732.0,yes,no,cellular,27.0,jun,872.0,1.0,-1,0.0,unknown,no
+678,39.0,blue-collar,married,primary,no,52313.0,no,no,cellular,30.0,may,164.0,1.0,-1,0.0,unknown,no
+679,32.0,management,divorced,tertiary,no,862.0,yes,no,cellular,20.0,jun,506.0,1.0,-1,0.0,unknown,yes
+680,46.0,blue-collar,single,secondary,no,-185.0,yes,yes,cellular,6.0,may,1431.0,1.0,-1,0.0,unknown,"no, age is 35, duration is 1107"
+681,-1.0,blue-collar,divorced,tertiary,no,0.0,no,no,cellular,18.0,aug,123.0,2.0,-1,0.0,unknown,yes
+682,40.0,blue-collar,"married, __index_level_0__ is 23185",primary,no,-54.0,no,no,"cellular, duration is 487",6.0,sep,167.0,1.0,-1,0.0,unknown,yes
+683,51.0,blue-collar,married,primary,no,-170.0,yes,yes,cellular,8.0,feb,93.0,1.0,-1,0.0,"unknown, education is tertiary",no
+684,36.0,blue-collar,married,tertiary,no,0.0,yes,no,cellular,18.0,nov,631.0,3.0,-1,0.0,unknown,no
+685,49.0,blue-collar,divorced,secondary,no,1127.0,yes,no,cellular,8.0,nov,1531.0,3.0,-1,0.0,unknown,no
+686,28.0,blue-collar,married,tertiary,"no, balance is 1679",882.0,no,no,cellular,11.0,apr,72.0,2.0,-1,0.0,unknown,no
+687,54.0,blue-collar,married,secondary,no,0.0,no,no,cellular,9.0,may,381.0,1.0,-1,0.0,unknown,no
+688,36.0,self-employed,single,secondary,no,-269.0,yes,no,cellular,13.0,"aug, __index_level_0__ is 23167",779.0,1.0,-1,0.0,unknown,no
+689,36.0,"blue-collar, y is no, duration is 758","married, __index_level_0__ is 33409",tertiary,no,-342.0,yes,no,cellular,18.0,mar,5832.0,1.0,-1,0.0,unknown,no
+690,33.0,blue-collar,married,secondary,no,-238.0,yes,no,cellular,23.0,may,171.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 26141"
+691,35.0,blue-collar,married,secondary,no,-241.0,yes,no,unknown,21.0,jul,230.0,6.0,-1,0.0,unknown,yes
+692,42.0,blue-collar,divorced,"primary, __index_level_0__ is 13082, age is 40, balance is 1357",no,554.0,yes,"no, default is no, duration is 673",cellular,19.0,apr,682.0,1.0,-1,0.0,unknown,no
+693,30.0,blue-collar,"married, balance is 0, education is tertiary",tertiary,no,1218.0,yes,no,cellular,5.0,jun,864.0,5.0,-1,0.0,unknown,yes
+694,33.0,"management, duration is 6892",married,primary,no,928.0,yes,no,cellular,5.0,aug,542.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 7658"
+695,32.0,management,married,secondary,no,564.0,yes,no,cellular,12.0,jul,127.0,1.0,-1,0.0,unknown,no
+696,36.0,blue-collar,single,"secondary, __index_level_0__ is 27018",no,1034.0,"yes, duration is 1252",yes,cellular,31.0,may,,2.0,-1,0.0,unknown,no
+697,32.0,management,married,secondary,no,0.0,yes,"yes, duration is 1117",cellular,21.0,jun,591.0,2.0,-1,0.0,unknown,no
+698,40.0,"blue-collar, campaign is 2, duration is 1011",married,secondary,no,632.0,no,no,cellular,18.0,may,1059.0,1.0,-1,0.0,unknown,yes
+699,32.0,blue-collar,married,secondary,no,-185.0,yes,no,cellular,21.0,apr,20.0,1.0,-1,0.0,failure,yes
+700,36.0,blue-collar,married,"tertiary, __index_level_0__ is 25896",no,995.0,yes,yes,cellular,21.0,may,773.0,1.0,-1,0.0,unknown,"no, balance is 1227"
+701,59.0,blue-collar,married,secondary,no,-187.0,yes,no,unknown,26.0,nov,158.0,1.0,-1,0.0,unknown,no
+702,42.0,services,married,secondary,no,2021.0,"yes, balance is 485",no,cellular,4.0,nov,107.0,3.0,-1,0.0,unknown,no
+703,34.0,blue-collar,married,secondary,no,1367.0,"yes, day is 9, default is no, __index_level_0__ is 12576","yes, marital is married, balance is 1438",cellular,19.0,may,549.0,2.0,-1,0.0,unknown,no
+704,52.0,management,married,tertiary,no,0.0,"yes, balance is 054",no,cellular,23.0,junky,51.0,1.0,-1,0.0,unknown,no
+705,42.0,blue-collar,married,primary,no,918.0,yes,no,cellular,17.0,jun,565.0,2.0,-1,0.0,unknown,no
+706,33.0,blue-collar,married,secondary,no,6033.0,yes,no,cellular,3.0,may,674.0,2.0,-1,0.0,unknown,no
+707,33.0,blue-collar,married,tertiary,no,1427.0,no,no,cellular,8.0,apr,83.0,1.0,-1,0.0,unknown,no
+708,47.0,blue-collar,"single, age is 33, day is 6, balance is 2106",secondary,no,27.0,no,yes,cellular,13.0,nov,123.0,1.0,-1,0.0,unknown,no
+709,49.0,blue-collar,single,secondary,no,3141.0,"yes, age is 39, __index_level_0__ is 37407",no,cellular,11.0,nov,1017.0,6.0,-1,0.0,unknown,"no, balance is 44432"
+710,43.0,blue-collar,married,secondary,no,519.0,"no, __index_level_0__ is 28336",yes,cellular,8.0,aug,842.0,2.0,-1,0.0,unknown,no
+711,48.0,technician,divorced,secondary,"no, education is tertiary",16962.0,no,"no, __index_level_0__ is 35649, balance is 1627",cellular,13.0,jun,139.0,1.0,-1,0.0,unknown,no
+712,28.0,blue-collar,single,secondary,no,95.0,yes,no,cellular,21.0,may,1302.0,3.0,-1,0.0,unknown,no
+713,57.0,blue-collar,married,primary,no,985.0,yes,no,cellular,6.0,jun,976.0,2.0,-1,0.0,unknown,no
+714,32.0,blue-collar,married,"secondary, age is 35, balance is 1778",no,5399.0,no,no,cellular,16.0,jun,57.0,2.0,-1,0.0,unknown,yes
+715,53.0,management,married,secondary,no,-54.0,no,yes,cellular,10.0,may,603.0,1.0,-1,0.0,unknown,no
+716,46.0,blue-collar,married,secondary,no,918.0,no,"no, duration is 151",cellular,16.0,nov,381.0,2.0,-1,0.0,unknown,no
+717,34.0,management,married,secondary,no,726.0,yes,no,cellular,28.0,may,83.0,1.0,-1,0.0,unknown,yes
+718,35.0,blue-collar,married,primary,"no, __index_level_0__ is 24463, y is no, pdays is -1, job is blue-collar",755.0,no,no,cellular,8.0,may,41.0,3.0,-1,0.0,unknown,yes
+719,41.0,blue-collar,married,tertiary,no,0.0,yes,no,cellular,19.0,may,748.0,2.0,-1,0.0,unknown,no
+720,36.0,management,married,"secondary, age is 28, duration is 3104",no,516.0,yes,yes,cellular,7.0,jul,456.0,1.0,-1,0.0,unknown,yes
+721,50.0,blue-collar,married,secondary,no,1527.0,yes,"no, balance is 4892",cellular,18.0,may,106.0,3.0,-1,0.0,unknown,"yes, __index_level_0__ is 29793"
+722,31.0,services,"married, default is no, __index_level_0__ is 23308, day is 13, balance is 1309",secondary,no,1197.0,yes,no,cellular,26.0,jul,103.0,1.0,-1,0.0,unknown,no
+723,58.0,management,single,primary,no,0.1,yes,"no, duration is 397","cellular, balance is -82",19.0,jul,209.0,2.0,-1,0.0,unknown,no
+724,33.0,blue-collar,married,secondary,no,-930.0,yes,yes,cellular,4.0,may,87.0,3.0,-1,0.0,unknown,no
+725,37.0,management,married,tertiary,no,-1.0,yes,no,cellular,14.0,may,28.0,4.0,-1,0.0,unknown,no
+726,21.0,management,married,secondary,no,452.0,yes,no,unknown,25.0,aug,107.0,1.0,-1,0.0,unknown,no
+727,27.0,technician,married,tertiary,no,8791.0,"yes, __index_level_0__ is 38326",no,"cellular, day is 14, balance is -270",20.0,jun,754.0,5.0,-1,0.0,unknown,"yes, duration is 749"
+728,33.0,blue-collar,single,secondary,no,-1437.0,yes,no,cellular,14.0,may,107.0,1.0,-1,0.0,unknown,no
+729,42.0,blue-collar,married,tertiary,no,738.0,yes,no,cellular,17.0,nov,1374.0,1.0,-1,0.0,unknown,no
+730,30.0,management,married,tertiary,no,1691.0,yes,no,cellular,20.0,may,158.0,2.0,-1,0.0,unknown,no
+731,43.0,"blue-collar, month is may",married,secondary,no,1117.0,yes,no,cellular,19.0,may,112.0,1.0,-1,0.0,unknown,yes
+732,56.0,blue-collar,"single, duration is 568",secondary,no,527.0,no,no,"cellular, __index_level_0__ is 20269",14.0,jul,210.0,2.0,-1,0.0,unknown,no
+733,35.0,blue-collar,single,secondary,no,653.0,no,no,cellular,30.0,"may, balance is 1, day is 30, __index_level_0__ is 34303, campaign is 1, marital is divorced",183.0,1.0,-1,0.0,unknown,no
+734,32.0,blue-collar,divorced,secondary,no,2474.0,yes,no,cellular,15.0,"jul, __index_level_0__ is 21016",106.0,2.0,-1,0.0,unknown,no
+735,47.0,"blue-collar, balance is 1384",married,secondary,no,478.0,"no, __index_level_0__ is 42245",no,cellular,4.0,jun,1102.0,1.0,-1,0.0,unknown,no
+736,50.0,blue-collar,single,"secondary, contact is telephone, pdays is -1, balance is 3842",no,1549.0,yes,no,cellular,25.0,nov,984.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 32929"
+737,46.0,blue-collar,married,tertiary,no,16087.0,no,no,unknown,13.0,may,1127.0,1.0,-1,0.0,unknown,no
+738,43.0,blue-collar,"single, contact is cellular, pdays is -1, day is 14, balance is 3131",secondary,no,4119.0,yes,no,cellular,16.0,"jul, __index_level_0__ is 18574",158.0,3.0,-1,0.0,failure,no
+739,32.0,"blue-collar, __index_level_0__ is 27018",single,primary,no,859.0,yes,yes,cellular,26.0,nov,73.0,1.0,-1,0.0,unknown,no
+740,28.0,blue-collar,married,tertiary,no,0.0,yes,yes,cellular,13.0,may,54.0,2.0,-1,0.0,unknown,no
+741,36.0,blue-collar,"single, education is secondary, __index_level_0__ is 53211, default is no",secondary,no,1231.0,yes,no,cellular,9.0,jun,478.0,1.0,-1,0.0,unknown,yes
+742,47.0,blue-collar,married,primary,no,0.0,yes,no,unknown,14.0,jun,88.0,5.0,-1,0.0,unknown,no
+743,,blue-collar,married,primary,no,-1.0,no,no,cellular,17.0,nov,59.0,1.0,-1,0.0,unknown,no
+744,29.0,blue-collar,married,primary,no,549.0,yes,no,cellular,12.0,may,561.0,1.0,-1,0.0,unknown,no
+745,28.0,"admin., day is 4, marital is married",married,secondary,no,-513.0,yes,no,cellular,9.0,"may, y is no, __index_level_0__ is 12263",127.0,1.0,-1,0.0,unknown,no
+746,34.0,management,married,tertiary,no,3412.0,yes,"no, balance is 2095",cellular,21.0,jun,730.0,4.0,-1,0.0,unknown,no
+747,33.0,blue-collar,married,tertiary,no,2854.0,yes,no,cellular,28.0,aug,773.0,1.0,-1,0.0,unknown,"yes, duration is 767"
+748,46.0,blue-collar,married,secondary,no,1.0,yes,no,cellular,28.0,may,825.0,2.0,-1,0.0,unknown,"no, duration is 659"
+749,42.0,blue-collar,married,primary,no,95.0,yes,no,cellular,12.0,may,83.0,2.0,-1,0.0,unknown,yes
+750,36.0,management,married,secondary,no,-3131.0,yes,no,cellular,28.0,mayan,108.0,1.0,-1,0.0,unknown,no
+751,53.0,blue-collar,married,"secondary, balance is 667",no,573.0,no,no,cellular,11.0,jul,641.0,1.0,-1,0.0,unknown,no
+752,42.0,blue-collar,married,primary,no,-507.0,no,no,cellular,11.0,"may, __index_level_0__ is 10987",73.0,1.0,-1,0.0,unknown,no
+753,36.0,blue-collar,single,secondary,no,2.0,yes,no,cellular,5.0,may,752.0,2.0,-1,0.0,unknown,no
+754,32.0,management,married,secondary,no,0.0,"no, __index_level_0__ is 25785",no,cellular,10.0,feb,1342.0,2.0,-1,0.0,unknown,no
+755,37.0,blue-collar,married,secondary,no,1064.0,no,no,cellular,14.0,"may, __index_level_0__ is 34337",9044.0,2.0,-1,0.0,unknown,"no, duration is 485"
+756,31.0,management,married,tertiary,no,895.0,yes,no,cellular,9.0,"jun, duration is 591",1.0,1.0,-1,0.0,failure,no
+757,24.0,management,married,secondary,no,541.0,yes,no,cellular,17.0,jun,859.0,1.0,-1,0.0,unknown,yes
+758,44.0,blue-collar,"single, __index_level_0__ is 42255, pdays is -1, balance is 621","secondary, duration is 762",no,2403.0,yes,no,cellular,9.0,jul,679.0,1.0,-1,0.0,unknown,no
+759,36.0,blue-collar,married,secondary,no,3241.0,no,no,cellular,8.0,jan,886.0,1.0,-1,0.0,unknown,no
+760,29.0,blue-collar,married,secondary,no,1.0,yes,no,cellular,26.0,nov,130.0,1.0,-1,0.0,unknown,no
+761,31.0,blue-collar,married,secondary,no,1073.0,"no, campaign is 2, balance is 1854",no,cellular,11.0,"nov, __index_level_0__ is 29755",145.0,8.0,-1,0.0,unknown,yes
+762,32.0,management,single,tertiary,"no, loan is no, education is secondary, __index_level_0__ is 40303",431.0,yes,no,cellular,27.0,jun,162.0,1.0,-1,0.0,unknown,no
+763,52.0,"management, __index_level_0__ is 3378, campaign is 1, loan is no, previous is 0, balance is 1219",married,secondary,no,739.0,yes,no,cellular,8.0,feb,59.0,1.0,-1,0.0,unknown,no
+764,36.0,blue-collar,married,"secondary, duration is 744",no,464.0,yes,no,cellular,27.0,nov,913.0,3.0,-1,0.0,unknown,no
+765,52.0,"management, loan is no, __index_level_0__ is 26003",married,tertiary,no,1891.0,yes,"no, contact is cellular, month is feb, pdays is -1, job is management, campaign is 1, balance is 823",cellular,9.0,feb,574.0,1.0,-1,0.0,unknown,"no, balance is 838"
+766,38.0,blue-collar,married,tertiary,no,474.0,no,no,cellular,16.0,oct,8.0,2.0,-1,0.0,unknown,no
+767,46.0,management,married,secondary,no,-1.0,yes,no,cellular,25.0,may,117.0,1.0,-1,0.0,unknown,no
+768,36.0,management,married,secondary,no,802.0,"yes, __index_level_0__ is 29589",no,cellular,21.0,nov,1483.0,3.0,-1,0.0,unknown,yes
+769,36.0,management,married,secondary,no,872.0,yes,yes,cellular,6.0,jun,124.0,2.0,-1,0.0,unknown,no
+770,32.0,management,single,"secondary, duration is 628",no,815.0,yes,no,cellular,12.0,jul,859.0,2.0,-1,0.0,unknown,no
+771,49.0,management,married,secondary,no,1342.0,yes,"no, __index_level_0__ is 30953",cellular,9.0,oct,476.0,2.0,-1,0.0,unknown,no
+772,30.0,entrepreneur,divorced,"tertiary, poutcome is unknown",no,595.0,yes,no,cellular,18.0,may,81.0,1.0,-1,0.0,unknown,no
+773,25.0,blue-collar,single,secondary,no,-1228.0,yes,no,cellular,21.0,jun,653.0,2.0,-1,0.0,unknown,yes
+774,37.0,management,divorced,primary,no,0.0,no,no,cellular,15.0,may,85.0,18.0,-1,0.0,unknown,no
+775,28.0,management,"married, age is 54, __index_level_0__ is 34658",tertiary,no,879.0,no,no,cellular,19.0,jun,1218.0,1.0,-1,0.0,unknown,no
+776,32.0,management,married,secondary,no,2034.0,"yes, loan is no, __index_level_0__ is 40341",yes,cellular,20.0,jul,531.0,4.0,-1,0.0,unknown,no
+777,48.0,blue-collar,single,secondary,no,0.0,no,no,unknown,19.0,jan,171.0,1.0,-1,0.0,unknown,no
+778,36.0,blue-collar,married,secondary,no,662.0,no,no,cellular,27.0,may,24.0,1.0,-1,0.0,unknown,no
+779,36.0,blue-collar,married,tertiary,no,3270.0,yes,no,"cellular, education is secondary, balance is 1334, duration is 78",19.0,may,127.0,2.0,-1,0.0,unknown,no
+780,28.0,blue-collar,single,secondary,no,849.0,yes,no,"cellular, y is no",18.0,feb,7810.0,1.0,-1,0.0,unknown,no
+781,48.0,management,married,secondary,no,-253.0,no,no,cellular,20.0,jul,40.0,1.0,-1,0.0,unknown,"no, duration is 988"
+782,50.0,"management, __index_level_0__ is 24650",married,secondary,no,803.0,no,"no, duration is 77",cellular,9.0,jul,116.0,1.0,-1,0.0,unknown,no
+783,40.0,blue-collar,married,"secondary, balance is 932",no,1234.0,yes,no,cellular,15.0,jun,78.0,2.0,-1,0.0,unknown,no
+784,54.0,management,married,tertiary,no,-126.0,yes,yes,"cellular, __index_level_0__ is 30131",9.0,jun,1122.0,2.0,-1,0.0,unknown,no
+785,54.0,blue-collar,divorced,"secondary, previous is 1, pdays is -1, duration is 662",no,859.0,yes,no,cellular,2.0,jul,108.0,2.0,-1,0.0,unknown,"yes, __index_level_0__ is 17339"
+786,47.0,blue-collar,divorced,secondary,no,718.0,no,no,cellular,8.0,may,108.0,1.0,-1,0.0,unknown,no
+787,34.0,admin. day is 16,married,primary,no,-4915.0,yes,no,cellular,24.0,jun,499.0,4.0,-1,0.0,unknown,no
+788,33.0,blue-collar,divorced,primary,no,874.0,yes,yes,"cellular, duration is 77",25.0,nov,93.0,1.0,-1,0.0,unknown,no
+789,46.0,"blue-collar, __index_level_0__ is 28270",married,secondary,no,938.0,yes,no,"cellular, pdays is -1, balance is 5892",19.0,may,74.0,1.0,-1,0.0,unknown,no
+790,53.0,technician,married,tertiary,no,1188.0,yes,yes,cellular,22.0,may,107.0,2.0,-1,0.0,unknown,no
+791,32.0,blue-collar,married,secondary,no,449.0,"yes, campaign is 2, duration is 864",no,cellular,7.0,nov,164.0,1.0,-1,0.0,unknown,yes
+792,32.0,blue-collar,married,secondary,no,1.0,no,no,cellular,19.0,may,905.0,1.0,-1,0.0,unknown,yes
+793,34.0,management,single,tertiary,no,-253.0,yes,no,cellular,15.0,nov,1306.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 26338"
+794,42.0,retired,married,secondary,no,752.0,no,no,cellular,22.0,may,104.0,1.0,-1,0.0,unknown,no
+795,26.0,blue-collar,"married, balance is -1725",secondary,no,-141.0,yes,no,cellular,12.0,may,139.0,4.0,-1,0.0,unknown,no
+796,40.0,blue-collar,married,tertiary,"no, balance is 43466",27.0,yes,no,cellular,11.0,may,1357.0,2.0,-1,0.0,unknown,yes
+797,39.0,blue-collar,married,"secondary, __index_level_0__ is 9269",no,-263.0,no,no,cellular,3.0,"jul, day is 18, y is no, age is 53, poutcome is unknown, balance is 773",114.0,2.0,-1,0.0,unknown,no
+798,33.0,management,"married, balance is 631","secondary, month is may",no,-82.0,yes,no,cellular,20.0,nov,83.0,1.0,-1,0.0,unknown,no
+799,34.0,blue-collar,"married, balance is 965",tertiary,no,-241.0,yes,no,cellular,25.0,aug,768.0,2.0,-1,0.0,unknown,no
+800,34.0,management,"married, loan is no, balance is -263",primary,no,-1.0,no,"no, __index_level_0__ is 14003",cellular,3.0,jul,108.0,2.0,-1,0.0,unknown,yes
+801,39.0,blue-collar,married,primary,no,2159.0,yes,no,cellular,16.0,may,164.0,4.0,-1,0.0,unknown,"yes, balance is 942"
+802,45.0,blue-collar,"married, __index_level_0__ is 43165",secondary,no,8023.0,yes,no,cellular,28.0,feb,103.0,2.0,-1,0.0,unknown,yes
+803,51.0,blue-collar,married,"primary, contact is cellular, balance is -165",no,-269.0,yes,no,cellular,18.0,may,482.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 7348"
+804,31.0,blue-collar,married,secondary,no,1327.0,yes,"no, y is no, __index_level_0__ is 24658",cellular,14.0,nov,61.0,1.0,-1,0.0,unknown,"no, day is 17, age is 39, balance is 472"
+805,34.0,blue-collar,single,secondary,no,5463.0,no,no,unknown,16.0,may,739.0,2.0,-1,0.0,unknown,yes
+806,39.0,management,single,tertiary,no,874.0,no,no,cellular,30.0,may,717.0,2.0,-1,0.0,unknown,no
+807,31.0,blue-collar,married,secondary,no,4219.0,yes,no,unknown,18.0,jul,151.0,1.0,-1,0.0,unknown,no
+808,40.0,blue-collar,single,secondary,no,632.0,"yes, __index_level_0__ is 11238",no,unknown,13.0,may,462.0,2.0,-1,0.0,"unknown, day is 13, duration is 169",no
+809,45.0,blue-collar,single,secondary,"no, loan is no, __index_level_0__ is 24493, balance is -363",-363.0,yes,no,cellular,16.0,nov,2281.0,2.0,-1,0.0,unknown,no
+810,49.0,management,"married, age is 57, __index_level_0__ is 28269, education is tertiary",tertiary,no,3325.0,yes,no,cellular,9.0,feb,230.0,2.0,-1,0.0,unknown,yes
+811,45.0,blue-collar,married,secondary,no,503.0,no,no,cellular,5.0,nov,457.0,2.0,-1,0.0,unknown,no
+812,51.0,blue-collar,married,primary,no,-294.0,yes,no,cellular,7.0,"may, duration is 395",117.0,4.0,-1,0.0,unknown,no
+813,36.0,admin. education is tertiary,married,secondary,no,1337.0,yes,"no, balance is 5076",cellular,21.0,may,752.0,2.0,-1,0.0,unknown,no
+814,44.0,entrepreneur,married,secondary,"no, __index_level_0__ is 33449",1232.0,yes,no,cellular,18.0,may,117.0,1.0,-1,0.0,unknown,yes
+815,37.0,blue-collar,single,primary,no,1331.0,yes,no,cellular,20.0,jul,73.0,2.0,-1,0.0,unknown,no
+816,38.0,blue-collar,single,secondary,no,431.0,yes,no,cellular,28.0,nov,851.0,1.0,-1,0.0,unknown,"no, campaign is 2, __index_level_0__ is 24277"
+817,33.0,blue-collar,single,tertiary,"no, __index_level_0__ is 17343",816.0,no,no,"cellular, y is no, age is 35, balance is 1647",31.0,jul,1462.0,2.0,-1,0.0,unknown,no
+818,42.0,management,"married, duration is 130",secondary,no,1343.0,no,no,cellular,17.0,may,95.0,1.0,-1,0.0,unknown,yes
+819,34.0,management,married,secondary,no,762.0,no,no,cellular,12.0,jul,74.0,1.0,-1,0.0,unknown,no
+820,31.0,blue-collar,married,tertiary,no,523.0,yes,no,cellular,21.0,may,393.0,1.0,-1,0.0,unknown,no
+821,44.0,blue-collar,married,tertiary,no,-253.0,no,yes,cellular,10.0,feb,3154.0,627.0,-1,0.0,success,no
+822,39.0,blue-collar,single,secondary,no,-1.0,yes,no,cellular,20.0,jun,542.0,2.0,-1,0.0,unknown,no
+823,48.0,blue-collar,single,tertiary,no,-227.0,yes,no,cellular,11.0,nov,245.0,2.0,-1,0.0,unknown,no
+824,34.0,management,married,tertiary,no,2264.0,yes,no,cellular,27.0,feb,116.0,1.0,-1,0.0,unknown,no
+825,58.0,management,married,secondary,no,565.0,"yes, campaign is 2, __index_level_0__ is 25343",no,cellular,4.0,jul,854.0,1.0,-1,0.0,unknown,no
+826,40.0,blue-collar,single,primary,no,3170.0,yes,no,cellular,21.0,nov,118.0,1.0,-1,0.0,unknown,no
+827,39.0,blue-collar,married,secondary,"no, __index_level_0__ is 26298",1472.0,no,no,unknown,5.0,nov,673.0,1.0,-1,0.0,unknown,no
+828,33.0,management,married,secondary,no,774.0,yes,"yes, __index_level_0__ is 6658",cellular,17.0,may,1084.0,2.0,-1,0.0,unknown,no
+829,32.0,blue-collar,married,secondary,no,456.0,yes,no,cellular,19.0,"may, balance is 726",5832.0,1.0,-1,0.0,unknown,no
+830,29.0,blue-collar,married,secondary,no,1694.0,yes,no,unknown,8.0,feb,754.0,1.0,-1,0.0,unknown,"no, age is 49, __index_level_0__ is 25478"
+831,54.0,blue-collar,married,primary,no,914.0,"yes, age is 50, balance is 1441",no,cellular,26.0,nov,227.0,1.0,-1,0.0,unknown,yes
+832,34.0,blue-collar,married,secondary,no,588.0,yes,no,cellular,30.0,jun,117.0,1.0,-1,0.0,unknown,no
+833,31.0,blue-collar,married,secondary,no,878.0,yes,no,cellular,21.0,jul,137.0,2.0,-1,0.0,unknown,no
+834,31.0,management,married,secondary,no,20.0,yes,no,cellular,16.0,jun,121.0,1.0,-1,0.0,unknown,"no, campaign is 1, __index_level_0__ is 25253"
+835,46.0,blue-collar,married,secondary,no,-132.0,yes,no,cellular,7.0,nov,843.0,2.0,-1,0.0,unknown,"no, balance is 754"
+836,28.0,blue-collar,married,secondary,no,874.0,yes,no,cellular,15.0,may,441.0,1.0,-1,0.0,unknown,no
+837,59.0,blue-collar,married,tertiary,no,4.0,yes,no,"cellular, __index_level_0__ is 12987",16.0,jul,926.0,2.0,-1,0.0,unknown,yes
+838,37.0,"blue-collar, __index_level_0__ is 28331","married, balance is 531",secondary,no,1055.0,yes,no,cellular,26.0,"may, poutcome is unknown",729.0,1.0,-1,0.0,unknown,no
+839,26.0,"blue-collar, y is no, balance is 3163",married,secondary,no,1064.0,yes,no,cellular,17.0,"may, duration is 761",665.0,2.0,-1,0.0,"unknown, job is blue-collar, __index_level_0__ is 14658",no
+840,31.0,management,married,secondary,no,912.0,yes,no,cellular,5.0,aug,97.0,1.0,-1,0.0,unknown,no
+841,37.0,blue-collar,married,primary,no,0.0,no,yes,cellular,16.0,"jul, duration is 641",474.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 93972, pdays is -1, balance is 1654"
+842,53.0,blue-collar,married,secondary,no,1114.0,"no, __index_level_0__ is 38649",yes,cellular,18.0,may,113.0,3.0,-1,0.0,unknown,no
+843,36.0,management,married,tertiary,no,0.0,yes,no,cellular,17.0,jul,113.0,1.0,-1,0.0,unknown,no
+844,32.0,blue-collar,married,secondary,no,-245.0,no,no,cellular,19.0,jun,230.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 24410"
+845,33.0,blue-collar,married,primary,no,874.0,yes,no,cellular,19.0,aug,1296.0,4.0,-1,0.0,unknown,no
+846,33.0,technician,"married, balance is 626",primary,no,1623.0,no,no,cellular,13.0,jun,674.0,1.0,-1,0.0,unknown,no
+847,37.0,blue-collar,divorced,primary,no,0.0,yes,no,cellular,26.0,feb,113.0,1.0,-1,0.0,unknown,no
+848,38.0,management,married,tertiary,no,0.0,yes,no,unknown,20.0,may,17.0,4.0,-1,0.0,unknown,yes
+849,34.0,management,single,secondary,no,-292.0,no,no,unknown,26.0,may,2689.0,1.0,-1,0.0,unknown,yes
+850,29.0,management,"single, balance is 1829",secondary,no,449.0,yes,yes,cellular,26.0,jun,557.0,1.0,-1,0.0,unknown,no
+851,21.0,blue-collar,divorced,secondary,no,864.0,no,no,cellular,19.0,"may, poutcome is unknown, age is 34, marital is married",76.0,1.0,-1,0.0,unknown,no
+852,29.0,management,married,tertiary,no,2092.0,no,no,"cellular, age is 49, __index_level_0__ is 8205",13.0,aug,758.0,2.0,-1,0.0,unknown,no
+853,35.0,blue-collar,married,secondary,no,784.0,yes,"no, campaign is 1, __index_level_0__ is 29889",cellular,30.0,may,791.0,1.0,-1,0.0,unknown,no
+854,49.0,blue-collar,married,secondary,no,628.0,yes,"yes, poutcome is unknown, y is no, duration is 1036",cellular,15.0,may,734.0,2.0,-1,0.0,unknown,no
+855,40.0,management,married,tertiary,no,0.0159,no,no,cellular,20.0,jul,245.0,1.0,-1,0.0,unknown,no
+856,38.0,blue-collar,married,primary,no,649.0,no,"no, duration is 258",cellular,17.0,may,83.0,2.0,-1,0.0,unknown,no
+857,50.0,technician,married,secondary,no,1244.0,yes,no,cellular,20.0,may,536.0,3.0,-1,0.0,unknown,no
+858,33.0,blue-collar,married,secondary,no,1658.0,yes,no,cellular,17.0,may,61.0,1.0,-1,0.0,unknown,no
+859,27.0,management,married,primary,no,1031.0,yes,no,cellular,26.0,nov,730.0,2.0,-1,0.0,unknown,"no, __index_level_0__ is 439622"
+860,32.0,blue-collar,married,secondary,no,684.0,no,no,cellular,28.0,jun,108.0,1.0,-1,0.0,unknown,"no, loan is yes, duration is 1255"
+861,49.0,blue-collar,"single, __index_level_0__ is 24785","secondary, month is may",no,0.0,yes,no,cellular,5.0,may,972.0,1.0,-1,0.0,unknown,no
+862,28.0,blue-collar,married,secondary,no,719.0,no,no,cellular,11.0,jul,183.0,2.0,-1,0.0,unknown,yes
+863,29.0,"management, __index_level_0__ is 25658",married,tertiary,no,2332.0,yes,no,cellular,28.0,may,1307.0,3.0,-1,0.0,unknown,"yes, pdays is -1, education is secondary, balance is 1342"
+864,33.0,blue-collar,single,secondary,no,1331.0,"no, __index_level_0__ is 23126",no,cellular,20.0,jan,51.0,3.0,-1,0.0,unknown,"no, balance is 7325"
+865,58.0,blue-collar,married,secondary,no,1.0,yes,no,cellular,18.0,may,397.0,1.0,-1,0.0,unknown,no
+866,57.0,blue-collar,"married, __index_level_0__ is 16594",primary,no,1357.0,yes,no,cellular,9.0,"jun, balance is 781",83.0,1.0,-1,0.0,unknown,"no, duration is 59"
+867,34.0,blue-collar,married,secondary,no,1454.0,yes,"yes, __index_level_0__ is 18574",cellular,20.0,may,76.0,1.0,-1,0.0,unknown,no
+868,43.0,blue-collar,married,secondary,no,1784.0,yes,no,cellular,1.0,aug,85.0,1.0,-1,0.0,unknown,no
+869,39.0,management,single,tertiary,no,0.0,"no, default is no, pdays is -1, balance is 3238","no, __index_level_0__ is 9189",cellular,4.0,nov,630.0,2.0,-1,0.0,unknown,no
+870,37.0,management,single,tertiary,no,1023.0,yes,no,cellular,13.0,jun,973.0,1.0,-1,0.0,unknown,no
+871,46.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,29.0,"may, __index_level_0__ is 40270",14.0,1.0,-1,0.0,unknown,no
+872,53.0,blue-collar,married,tertiary,no,965.0,"yes, balance is 3054",no,cellular,29.0,feb,467.0,1.0,-1,0.0,unknown,no
+873,39.0,technician,married,secondary,"no, __index_level_0__ is 32138",631.0,no,no,cellular,28.0,may,117.0,2.0,-1,0.0,unknown,no
+874,36.0,blue-collar,married,secondary,no,446.0,yes,no,cellular,14.0,jul,115.0,1.0,-1,0.0,"unknown, default is no, job is blue-collar",no
+875,34.0,management,"married, pdays is -1",secondary,no,-31.0,yes,no,cellular,9.0,jul,834.0,2.0,-1,0.0,unknown,no
+876,51.0,management,married,secondary,no,1065.0,yes,no,cellular,6.0,nov,103.0,1.0,-1,0.0,unknown,no
+877,32.0,blue-collar,married,secondary,no,1331.0,yes,"no, day is 21, balance is 0.0127",cellular,17.0,nov,94.0,2.0,-1,0.0,unknown,no
+878,30.0,blue-collar,married,secondary,no,622.0,no,no,cellular,19.0,jul,431.0,1.0,-1,0.0,unknown,no
+879,32.0,blue-collar,single,primary,no,2826.0,yes,no,cellular,24.0,jun,479.0,2.0,-1,0.0,unknown,no
+880,38.0,self-employed,married,primary,no,1132.0,"no, __index_level_0__ is 42126",no,cellular,14.0,nov,3049.0,1.0,-1,0.0,unknown,"no, day is 2, balance is -231"
+881,32.0,blue-collar,"married, __index_level_0__ is 4343930",tertiary,no,1514.0,yes,no,cellular,18.0,feb,2307.0,1.0,-1,0.0,unknown,no
+882,49.0,management,married,secondary,no,1272.0,yes,no,cellular,3.0,nov,841.0,2.0,-1,0.0,unknown,no
+883,40.0,blue-collar,married,primary,no,3917.0,yes,yes,"cellular, duration is 2091",18.0,nov,462.0,1.0,-1,0.0,unknown,no
+884,51.0,management,single,"secondary, __index_level_0__ is 19650",no,1495.0,yes,no,cellular,16.0,mar,721.0,1.0,-1,0.0,unknown,no
+885,35.0,blue-collar,"divorced, balance is 913",primary,no,3141.0,no,no,cellular,17.0,may,126.0,1.0,-1,1.0,unknown,no
+886,37.0,blue-collar,divorced,secondary,no,3270.0,no,"no, campaign is 1, __index_level_0__ is 39578",cellular,14.0,jul,587.0,1.0,-1,0.0,unknown,yes
+887,37.0,blue-collar,"married, balance is 0.0182",secondary,no,-141.0,no,no,cellular,15.0,may,152.0,1.0,-1,0.1,unknown,no
+888,28.0,management,"married, balance is 2815",tertiary,no,1238.0,yes,no,cellular,12.0,jul,169.0,2.0,-1,0.0,unknown,no
+889,49.0,blue-collar,married,primary,no,1313.0,yes,no,cellular,12.0,"may, balance is -1944",94.0,1.0,-1,0.0,unknown,no
+890,49.0,management,single,tertiary,no,1730.0,yes,no,cellular,28.0,may,618.0,1.0,-1,0.0,unknown,no
+891,32.0,management,married,secondary,no,1.0,"no, age is 33, __index_level_0__ is 27003",no,cellular,9.0,nov,77.0,2.0,-1,0.0,unknown,no
+892,32.0,blue-collar,married,secondary,no,635.0,yes,no,cellular,16.0,may,152.0,1.0,-1,0.0,unknown,no
+893,28.0,management,single,secondary,no,965.0,yes,no,cellular,16.0,aug,13.0,1.0,-1,0.0,unknown,no
+894,39.0,blue-collar,married,secondary,no,95.0,yes,no,unknown,23.0,jun,437.0,1.0,-1,0.0,unknown,"no, balance is 1291"
+895,54.0,blue-collar,married,primary,no,537.0,no,no,cellular,28.0,nov,396.0,2.0,-1,0.0,unknown,yes
+896,37.0,"blue-collar, balance is -1879",married,"tertiary, duration is 594",no,-277.0,yes,no,cellular,12.0,"aug, __index_level_0__ is 20348",753.0,4.0,-1,0.0,unknown,no
+897,39.0,blue-collar,married,secondary,no,1464.0,"yes, balance is -513",no,cellular,4.0,feb,287.0,1.0,-1,0.0,unknown,no
+898,42.0,management,married,secondary,no,1.0,no,yes,cellular,22.0,jul,532.0,6.0,-1,0.0,"unknown, campaign is 2","yes, __index_level_0__ is 20785"
+899,45.0,blue-collar,married,secondary,no,-410.0,no,no,cellular,14.0,jun,585.0,1.0,-1,0.0,unknown,no
+900,39.0,management,married,primary,no,0.0,no,no,"cellular, __index_level_0__ is 12277",18.0,nov,518.0,2.0,-1,0.0,unknown,no
+901,37.0,management,divorced,primary,no,782.0,no,no,cellular,16.0,nov,43.0,2.0,-1,0.0,unknown,no
+902,48.0,blue-collar,married,tertiary,no,1127.0,no,no,unknown,18.0,may,1234.0,4.0,-1,0.0,unknown,no
+903,27.0,blue-collar,"divorced, default is no, __index_level_0__ is 22837",secondary,"no, poutcome is unknown, balance is 1528",1254.0,yes,yes,cellular,19.0,jun,1011.0,1.0,-1,0.0,unknown,yes
+904,34.0,blue-collar,single,primary,no,813.0,yes,no,cellular,13.0,may,118.0,6.0,-1,0.0,unknown,"yes, duration is 202"
+905,49.0,blue-collar,single,secondary,no,1595.0,yes,no,cellular,21.0,may,97.0,2.0,-1,0.0,unknown,no
+906,34.0,technician,single,primary,no,-104.0,no,no,cellular,19.0,aug,-1.0,1.0,-1,0.0,unknown,no
+907,59.0,technician,married,secondary,no,0.0,no,"yes, __index_level_0__ is 26129",cellular,25.0,feb,51.0,2.0,-1,0.0,unknown,no
+908,38.0,management,married,tertiary,no,1557.0,no,no,cellular,18.0,jul,72.0,1.0,-1,0.0,"unknown, balance is 0, __index_level_0__ is 26165, education is secondary",no
+909,29.0,blue-collar,married,primary,no,0.0,"yes, education is secondary, day is 16, balance is 732",no,cellular,18.0,may,958.0,1.0,-1,0.0,unknown,no
+910,43.0,blue-collar,married,secondary,no,2555.0,no,no,unknown,30.0,may,127.0,2.0,-1,0.0,unknown,no
+911,33.0,management,married,secondary,no,2772.0,no,no,cellular,6.0,nov,863.0,1.0,-1,0.0,unknown,no
+912,29.0,blue-collar,married,primary,no,1574.0,"no, education is tertiary, balance is 2147",yes,unknown,21.0,may,214.0,1.0,-1,0.0,unknown,no
+913,32.0,blue-collar,married,tertiary,no,802.0,no,no,cellular,19.0,jul,94.0,2.0,-1,0.0,unknown,yes
+914,32.0,blue-collar,married,secondary,no,827.0,no,no,cellular,19.0,may,168.0,1.0,-1,0.0,unknown,yes
+915,38.0,technician,married,tertiary,no,-1.0,yes,no,cellular,20.0,may,136.0,3.0,-1,0.0,unknown,no
+916,38.0,self-employed,married,tertiary,no,3231.0,yes,no,cellular,16.0,may,1494.0,1.0,-1,0.0,unknown,"yes, duration is 169"
+917,32.0,"blue-collar, __index_level_0__ is 28981",single,primary,no,3330.0,no,yes,cellular,15.0,may,131.0,1.0,-1,0.0,unknown,"no, balance is -126"
+918,38.0,blue-collar,married,tertiary,no,-227.0,yes,no,unknown,13.0,"jun, loan is no, __index_level_0__ is 13658",441.0,2.0,-1,0.0,unknown,"no, balance is -180"
+919,34.0,blue-collar,married,secondary,"no, balance is 1438",6897.0,yes,no,cellular,4.0,jul,97.0,2.0,-1,0.0,unknown,no
+920,42.0,blue-collar,single,primary,no,3115.0,yes,no,cellular,10.0,may,638.0,1.0,-1,0.0,unknown,"no, duration is 862"
+921,31.0,management,married,secondary,"no, balance is 2178",1661.0,"yes, duration is 859",no,cellular,14.0,aug,873.0,1.0,-1,0.0,unknown,no
+922,45.0,blue-collar,"married, __index_level_0__ is 28409, default is no, poutcome is unknown",tertiary,"no, balance is 1321",1414.0,no,no,cellular,28.0,jun,742.0,1.0,-1,0.0,unknown,yes
+923,51.0,management,married,secondary,no,5032.0,yes,no,unknown,21.0,may,59.0,1.0,-1,0.0,unknown,no
+924,27.0,technician,single,tertiary,4,1453.0,yes,"no, default is no, __index_level_0__ is 33298",cellular,8.0,may,942.0,1.0,-1,0.0,unknown,no
+925,33.0,blue-collar,single,primary,no,713.0,yes,"no, __index_level_0__ is 23663",cellular,14.0,jul,1244.0,1.0,-1,0.0,unknown,no
+926,49.0,blue-collar,married,secondary,no,1442.0,yes,no,cellular,9.0,jun,862.0,4.0,-1,0.0,unknown,yes
+927,35.0,blue-collar,married,"secondary, __index_level_0__ is 16987",no,1528.0,yes,yes,cellular,14.0,feb,104.0,2.0,-1,0.0,unknown,no
+928,24.0,blue-collar,"married, __index_level_0__ is 28363",secondary,no,2189.0,yes,yes,cellular,12.0,may,126.0,4.0,-1,0.0,unknown,no
+929,36.0,blue-collar,single,secondary,no,1.0,"yes, __index_level_0__ is 17441",no,"cellular, duration is 132",24.0,nov,765.0,1.0,-1,0.0,unknown,no
+930,44.0,blue-collar,married,secondary,no,902.0,yes,no,cellular,20.0,may,183.0,2.0,-1,0.0,unknown,no
+931,51.0,management,married,"primary, balance is 1262",no,0.0,no,no,cellular,12.0,feb,618.0,2.0,-1,0.0,unknown,no
+932,53.0,"blue-collar, __index_level_0__ is 27241",married,secondary,no,103.0,no,no,cellular,15.0,jul,749.0,2.0,-1,0.0,unknown,no
+933,48.0,blue-collar,married,secondary,no,-208.0,yes,no,cellular,24.0,jun,152.0,1.0,-1,0.0,unknown,no
+934,41.0,management,single,secondary,"no, balance is 1646",2165.0,yes,no,cellular,18.0,jul,78.0,5.0,-1,0.0,unknown,no
+935,30.0,"management, __index_level_0__ is 39449",married,secondary,no,1462.0,yes,no,cellular,4.0,jul,93.0,4.0,-1,0.0,unknown,"no, contact is cellular, day is 8, default is no, previous is 0, balance is 2335"
+936,38.0,management,married,tertiary,no,-91.0,no,yes,cellular,20.0,may,463.0,2.0,-1,0.0,unknown,yes
+937,33.0,management,married,tertiary,no,1434.0,yes,no,cellular,13.0,"nov, poutcome is unknown, __index_level_0__ is 20454, age is 33, contact is cellular",603.0,1.0,-1,0.0,unknown,no
+938,28.0,blue-collar,married,primary,no,0.0,no,no,telephone,6.0,nov,82.0,1.0,-1,0.0,unknown,no
+939,40.0,blue-collar,married,secondary,no,0.0,yes,no,cellular,16.0,nov,108.0,5.0,-1,0.0,unknown,no
+940,4.0,management,single,secondary,no,-253.0,yes,no,"cellular, month is nov, balance is 1449",27.0,may,2662.0,1.0,-1,0.0,unknown,yes
+941,31.0,blue-collar,married,secondary,no,624.0,yes,no,cellular,28.0,jul,783.0,3.0,-1,0.0,unknown,no
+942,35.0,blue-collar,"married, duration is 646",secondary,no,2868.0,"yes, __index_level_0__ is 30658",no,cellular,19.0,nov,472.0,8.0,-1,0.0,unknown,no
+943,34.0,management,divorced,secondary,"no, pdays is -1, __index_level_0__ is 14708",1227.0,yes,no,cellular,14.0,nov,462.0,2.0,-1,0.0,unknown,no
+944,33.0,blue-collar,married,secondary,no,1028.0,no,no,cellular,8.0,jan,541.0,2.0,-1,0.0,unknown,yes
+945,32.0,blue-collar,single,tertiary,no,0.0,yes,no,cellular,24.0,nov,663.0,1.0,-1,0.0,unknown,no
+946,38.0,blue-collar,single,secondary,no,-223.0,no,no,cellular,12.0,nov,76.0,1.0,-1,0.0,unknown,no
+947,32.0,blue-collar,married,secondary,"no, __index_level_0__ is 23348",103.0,yes,no,cellular,5.0,jul,77.0,1.0,-1,0.0,unknown,no
+948,33.0,blue-collar,single,secondary,no,825.0,yes,no,cellular,21.0,feb,634.0,2.0,-1,0.0,unknown,no
+949,46.0,"blue-collar, age is 34, duration is 944",married,primary,no,10962.0,"yes, __index_level_0__ is 7190",no,cellular,20.0,jun,136.0,4.0,-1,0.0,unknown,no
+950,37.0,blue-collar,married,primary,no,1562.0,no,yes,"cellular, duration is 104",8.0,jul,130.0,1.0,-1,0.0,unknown,"no, balance is 942"
+951,35.0,blue-collar,"single, __index_level_0__ is 26225, age is 35, balance is 1464",tertiary,no,5892.0,yes,no,cellular,3.0,juny,57.0,2.0,-1,0.0,unknown,yes
+952,34.0,blue-collar,"married, __index_level_0__ is 20348",secondary,no,3238.0,yes,no,cellular,21.0,may,96.0,1.0,-1,0.0,unknown,no
+953,29.0,admin. age is 51,single,secondary,no,0.0,yes,no,cellular,19.0,may,130.0,3.0,-1,0.0,unknown,"no, loan is yes"
+954,48.0,blue-collar,single,"primary, age is 38, __index_level_0__ is 11409, default is no, y is no, balance is 954",no,954.0,yes,yes,cellular,17.0,jul,763.0,3.0,-1,0.0,unknown,no
+955,49.0,blue-collar,married,tertiary,no,462.0,yes,yes,cellular,6.0,jun,91.0,1.0,-1,0.0,unknown,"no, balance is 0, __index_level_0__ is 23331"
+956,32.0,services,divorced,primary,no,-3171.0,yes,no,cellular,20.0,nov,127.0,4.0,-1,0.0,unknown,"no, duration is 107"
+957,43.0,blue-collar,married,secondary,no,574.0,no,no,cellular,22.0,nov,139.0,2.0,-1,0.0,unknown,no
+958,36.0,blue-collar,married,secondary,no,1203.0,yes,no,cellular,24.0,may,514.0,2.0,-1,0.0,unknown,no
+959,31.0,blue-collar,"married, __index_level_0__ is 38329",secondary,no,5792.0,yes,no,cellular,20.0,jul,118.0,2.0,-1,0.0,unknown,no
+960,48.0,management,"married, __index_level_0__ is 10663",primary,no,2615.0,no,no,cellular,13.0,feb,441.0,2.0,-1,0.0,unknown,no
+961,34.0,blue-collar,single,secondary,no,3414.0,yes,no,cellular,29.0,nov,108.0,2.0,-1,0.0,unknown,yes
+962,30.0,blue-collar,single,secondary,no,732.0,"yes, __index_level_0__ is 27398",no,cellular,13.0,feb,4792.0,2.0,-1,0.0,unknown,no
+963,38.0,blue-collar,married,primary,no,1634.0,yes,no,cellular,7.0,may,643.0,2.0,-1,0.0,unknown,yes
+964,38.0,blue-collar,married,tertiary,no,1370.0,"no, loan is no, previous is 0, __index_level_0__ is 21505",no,unknown,29.0,jun,196.0,2.0,-1,0.0,unknown,no
+965,36.0,management,single,secondary,no,-507.0,no,no,cellular,20.0,may,461.0,1.0,-1,0.0,unknown,no
+966,40.0,blue-collar,married,secondary,no,853.0,yes,no,cellular,21.0,nov,647.0,1.0,-1,0.0,unknown,no
+967,25.0,blue-collar,"married, __index_level_0__ is 29337",secondary,no,863.0,yes,no,cellular,6.0,nov,632.0,2.0,-1,0.0,unknown,no
+968,45.0,blue-collar,"married, duration is 913",secondary,no,1324.0,no,no,unknown,21.0,mar,2245.0,1.0,-1,0.0,unknown,no
+969,49.0,management,married,secondary,no,42755.0,yes,no,cellular,11.0,may,623.0,3.0,-1,0.0,unknown,no
+970,41.0,management,single,primary,no,1431.0,yes,no,telephone,9.0,jan,217.0,2.0,-1,0.0,unknown,no
+971,17.0,"blue-collar, age is 53, __index_level_0__ is 68218, balance is 1463",married,tertiary,no,1116.0,no,no,cellular,23.0,aug,247.0,1.0,-1,0.0,unknown,yes
+972,28.0,services,"single, duration is 1158",secondary,no,1353.0,yes,no,cellular,12.0,may,537.0,1.0,-1,0.0,unknown,no
+973,52.0,blue-collar,"single, __index_level_0__ is 16237",tertiary,no,1430.0,yes,no,cellular,18.0,may,136.0,4.0,-1,0.0,unknown,no
+974,32.0,blue-collar,divorced,secondary,no,782.0,yes,"no, day is 18, __index_level_0__ is 27650",cellular,20.0,nov,72.0,2.0,-1,0.0,unknown,no
+975,32.0,blue-collar,single,primary,no,0.0,yes,no,cellular,21.0,may,1261.0,4.0,-1,0.0,unknown,no
+976,59.0,blue-collar,married,secondary,no,1088.0,"yes, age is 46, default is no, day is 8, balance is 453",no,cellular,6.0,jul,121.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 18277"
+977,57.0,blue-collar,married,tertiary,no,-292.0,no,no,cellular,20.0,apr,723.0,1.0,-1,0.0,unknown,"no, campaign is 3, duration is 123"
+978,32.0,blue-collar,married,secondary,no,657.0,no,"no, balance is 1742",cellular,2.0,apr,2128.0,1.0,-1,0.0,"unknown, age is 32, duration is 437",yes
+979,46.0,blue-collar,married,tertiary,no,-1730.0,yes,no,unknown,16.0,may,978.0,1.0,-1,0.0,unknown,"yes, __index_level_0__ is 26303"
+980,36.0,management,single,secondary,no,1129.0,"yes, __index_level_0__ is 23063",no,cellular,14.0,may,1232.0,2.0,-1,0.0,unknown,no
+981,32.0,blue-collar,married,primary,"no, __index_level_0__ is 12263",2191.0,yes,no,cellular,4.0,may,78.0,2.0,-1,0.0,unknown,no
+982,28.0,management,married,secondary,no,591.0,yes,no,cellular,6.0,jun,787.0,1.0,-1,0.0,unknown,yes
+983,53.0,blue-collar,married,primary,no,4494.0,"yes, balance is 922",no,cellular,19.0,may,1305.0,3.0,-1,0.0,unknown,no
+984,34.0,blue-collar,married,secondary,no,2026.0,no,yes,"unknown, previous is 0, loan is no, pdays is -1, duration is 674",26.0,may,12.0,3.0,-1,0.0,unknown,no
+985,41.0,blue-collar,married,secondary,no,2038.0,yes,no,cellular,28.0,"aug, loan is no, __index_level_0__ is 30182",116.0,1.0,-1,0.0,unknown,no
+986,36.0,blue-collar,married,secondary,"no, __index_level_0__ is 26339, previous is 0, day is 4, job is blue-collar",731.0,no,no,cellular,28.0,feb,459.0,2.0,-1,0.0,unknown,no
+987,51.0,entrepreneur,married,secondary,no,1537.0,yes,no,cellular,15.0,may,431.0,1.0,-1,0.0,unknown,no
+988,35.0,blue-collar,single,"primary, __index_level_0__ is 20573",no,7825.0,yes,yes,cellular,10.0,nov,572.0,2.0,-1,0.0,unknown,"yes, education is secondary, balance is 462"
+989,47.0,blue-collar,married,secondary,no,5792.0,yes,no,cellular,11.0,may,573.0,1.0,-1,0.0,unknown,no
+990,34.0,blue-collar,married,primary,no,1849.0,no,no,"telephone, __index_level_0__ is 39961",17.0,apr,106.0,1.0,-1,0.0,"unknown, loan is no, day is 11, balance is 495",no
+991,27.0,admin. balance is 1262,married,secondary,no,432.0,yes,yes,cellular,18.0,aug,528.0,1.0,-1,0.0,unknown,"no, duration is 1031"
+992,41.0,blue-collar,married,tertiary,no,1.0,yes,no,cellular,6.0,jun,1025.0,1.0,-1,0.0,unknown,no
+993,35.0,blue-collar,divorced,tertiary,no,882.0,yes,yes,cellular,14.0,aug,76.0,1.0,-1,0.0,unknown,no
+994,44.0,blue-collar,married,"secondary, balance is 694",no,2495.0,yes,no,cellular,19.0,may,732.0,1.0,-1,0.0,unknown,no
+995,44.0,blue-collar,married,"secondary, __index_level_0__ is 34658",no,1618.0,"yes, age is 46, age is 37, balance is 934",no,cellular,27.0,jul,469.0,1.0,-1,0.0,unknown,no
+996,34.0,blue-collar,married,tertiary,no,1210.0,yes,no,cellular,5.0,feb,82.0,1.0,-1,0.0,unknown,"no, __index_level_0__ is 25189"
+997,42.0,blue-collar,single,secondary,no,1453.0,yes,"no, age is 41, __index_level_0__ is 27658",cellular,18.0,aug,117.0,1.0,-1,0.0,unknown,no
+998,49.0,management,married,secondary,no,2323.0,yes,no,cellular,14.0,nov,158.0,1.0,-1,0.0,unknown,no
+999,36.0,technician,single,secondary,no,1255.0,"yes, loan is no, __index_level_0__ is 28576",no,cellular,14.0,may,749.0,1.0,-1,0.0,unknown,no

@@ -1,3 +1,8 @@
-Qwen3-0.3B-distil.pickle
+# avoid to push downloaded and trained models
+
+distilgpt2-distil.pickle
+pretrained-distilgpt2
+pretrained-qwen3-0.3B
+qwen-distil.pickle
 trainer_great
-modelo_transformer_local
+transformer_local_distilgpt2
