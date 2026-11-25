@@ -1,0 +1,25 @@
+# Versiones validadas con los notebooks (Python 3.12)
+# SDV 2.x: los sintetizadores single-table reciben/devuelven dict {tabla: DataFrame}
+
+# Sintetizadores SDV (Gaussian Copula, CTGAN, TVAE) y métricas
+sdv==2.2.0
+rdt==2.1.0
+sdmetrics==0.33.0
+ctgan==0.13.0
+copulas==0.15.0
+
+# LLM tabular (GReaT)
+be-great==0.0.14
+transformers==5.24.1
+torch==2.15.0
+accelerate==1.16.0
+datasets==5.2.0
+
+# Análisis y visualización
+pandas==2.3.3
+numpy==2.5.5
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+ipykernel==7.4.0
