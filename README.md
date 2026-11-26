@@ -19,6 +19,11 @@ Cada fila es un cliente y la columna `y` dice si contrató (`yes`) o no (`no`) u
 
 El notebook de análisis ya deja claro que el dataset tiene algunas particularidades incómodas: columnas como `balance` y `previous` tienen colas muy largas, y varias categóricas usan `unknown` como valor desconocido. Justo ahí empieza lo interesante: ver qué tan bien aguanta cada método esas rarezas.
 
+En este link hay un analisis muy interesante sobre este mismo dataset. Un experimento pendiente es reproducir el
+mismo analisis usando datos sintenticos para revisar si puedo llegar a las mismas conclusiones.
+El trabajo es este https://rpubs.com/isabellaabril23/907846, Analysis Bank Marketing Data Set
+de Isabella Hernandez
+
 ## Cómo está montado el experimento
 
 La rutina se repite para cada sintetizador:
